@@ -84,18 +84,6 @@
     "metaPath": "patches/prince-run/merit/admin_1779797004099.json"
   },
   {
-    "title": "Doro - 音乐律动",
-    "author": "admin",
-    "petId": "doro",
-    "actionType": "music",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/music/admin_1779770068974.webp",
-    "createdTime": "2026-05-26T04:34:28.974Z",
-    "metaPath": "patches/doro/music/admin_1779770068974.json"
-  },
-  {
     "title": "Doro - 功德模式",
     "author": "admin",
     "petId": "doro",
