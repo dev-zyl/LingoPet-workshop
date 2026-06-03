@@ -84,18 +84,6 @@
     "metaPath": "patches/prince-run/merit/admin_1779797004099.json"
   },
   {
-    "title": "486 - 专注模式",
-    "author": "admin",
-    "petId": "486",
-    "actionType": "focus",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/486/focus/admin_1779794126397.webp",
-    "createdTime": "2026-05-26T11:15:26.398Z",
-    "metaPath": "patches/486/focus/admin_1779794126397.json"
-  },
-  {
     "title": "Doro - 音乐律动",
     "author": "admin",
     "petId": "doro",
