@@ -1,5 +1,17 @@
 [
   {
+    "title": "摸鱼奶龙 - 功德模式",
+    "author": "神秘宠物训练师",
+    "petId": "moyunailong",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/moyunailong/merit/神秘宠物训练师_1780709544612.webp",
+    "createdTime": "2026-06-06T01:32:24.612Z",
+    "metaPath": "patches/moyunailong/merit/神秘宠物训练师_1780709544612.json"
+  },
+  {
     "title": "摸鱼奶龙 - 专注模式",
     "author": "神秘宠物训练师",
     "petId": "moyunailong",
