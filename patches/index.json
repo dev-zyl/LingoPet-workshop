@@ -1,5 +1,17 @@
 [
   {
+    "title": "GPT-muse - 专注模式",
+    "author": "神秘宠物训练师",
+    "petId": "gpt-muse",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/gpt-muse/focus/神秘宠物训练师_1780763378078.webp",
+    "createdTime": "2026-06-06T16:29:38.078Z",
+    "metaPath": "patches/gpt-muse/focus/神秘宠物训练师_1780763378078.json"
+  },
+  {
     "title": "摸鱼奶龙 - 功德模式",
     "author": "神秘宠物训练师",
     "petId": "moyunailong",
