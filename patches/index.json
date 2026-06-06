@@ -1,5 +1,17 @@
 [
   {
+    "title": "GPT-muse - 功德模式",
+    "author": "神秘宠物训练师",
+    "petId": "gpt-muse",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/gpt-muse/merit/神秘宠物训练师_1780764820675.webp",
+    "createdTime": "2026-06-06T16:53:40.675Z",
+    "metaPath": "patches/gpt-muse/merit/神秘宠物训练师_1780764820675.json"
+  },
+  {
     "title": "GPT-muse - 音乐律动",
     "author": "神秘宠物训练师",
     "petId": "gpt-muse",
