@@ -1,5 +1,41 @@
 [
   {
+    "title": "486 - 功德模式",
+    "author": "神秘宠物训练师",
+    "petId": "486",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/486/merit/神秘宠物训练师_1780779797797.webp",
+    "createdTime": "2026-06-06T21:03:17.797Z",
+    "metaPath": "patches/486/merit/神秘宠物训练师_1780779797797.json"
+  },
+  {
+    "title": "486 - 音乐律动",
+    "author": "神秘宠物训练师",
+    "petId": "486",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/486/music/神秘宠物训练师_1780779790762.webp",
+    "createdTime": "2026-06-06T21:03:10.762Z",
+    "metaPath": "patches/486/music/神秘宠物训练师_1780779790762.json"
+  },
+  {
+    "title": "486 - 专注模式",
+    "author": "神秘宠物训练师",
+    "petId": "486",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/486/focus/神秘宠物训练师_1780779783696.webp",
+    "createdTime": "2026-06-06T21:03:03.696Z",
+    "metaPath": "patches/486/focus/神秘宠物训练师_1780779783696.json"
+  },
+  {
     "title": "GPT-muse - 功德模式",
     "author": "神秘宠物训练师",
     "petId": "gpt-muse",
