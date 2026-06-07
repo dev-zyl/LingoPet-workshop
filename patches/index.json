@@ -1,5 +1,41 @@
 [
   {
+    "title": "GUGUGAGA - 音乐律动",
+    "author": "admin",
+    "petId": "endminguga",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/endminguga/music/admin_1780797595857.webp",
+    "createdTime": "2026-06-07T01:59:55.857Z",
+    "metaPath": "patches/endminguga/music/admin_1780797595857.json"
+  },
+  {
+    "title": "GUGUGAGA - 专注模式",
+    "author": "admin",
+    "petId": "endminguga",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/endminguga/focus/admin_1780797590818.webp",
+    "createdTime": "2026-06-07T01:59:50.818Z",
+    "metaPath": "patches/endminguga/focus/admin_1780797590818.json"
+  },
+  {
+    "title": "GUGUGAGA - 功德模式",
+    "author": "admin",
+    "petId": "endminguga",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/endminguga/merit/admin_1780797584885.webp",
+    "createdTime": "2026-06-07T01:59:44.885Z",
+    "metaPath": "patches/endminguga/merit/admin_1780797584885.json"
+  },
+  {
     "title": "bocchi - 功德模式",
     "author": "admin",
     "petId": "bocchi",
