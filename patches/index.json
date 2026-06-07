@@ -1,5 +1,41 @@
 [
   {
+    "title": "bocchi - 功德模式",
+    "author": "admin",
+    "petId": "bocchi",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/bocchi/merit/admin_1780797278705.webp",
+    "createdTime": "2026-06-07T01:54:38.705Z",
+    "metaPath": "patches/bocchi/merit/admin_1780797278705.json"
+  },
+  {
+    "title": "bocchi - 音乐律动",
+    "author": "admin",
+    "petId": "bocchi",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/bocchi/music/admin_1780797271986.webp",
+    "createdTime": "2026-06-07T01:54:31.986Z",
+    "metaPath": "patches/bocchi/music/admin_1780797271986.json"
+  },
+  {
+    "title": "bocchi - 专注模式",
+    "author": "admin",
+    "petId": "bocchi",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/bocchi/focus/admin_1780797266311.webp",
+    "createdTime": "2026-06-07T01:54:26.311Z",
+    "metaPath": "patches/bocchi/focus/admin_1780797266311.json"
+  },
+  {
     "title": "杰伦 - 功德模式",
     "author": "admin",
     "petId": "jielun",
