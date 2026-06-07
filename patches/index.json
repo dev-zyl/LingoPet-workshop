@@ -7,6 +7,42 @@
     "framesCount": 8,
     "frameDuration": 150,
     "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/reg/music/admin_1780799583484.webp",
+    "createdTime": "2026-06-07T02:33:03.484Z",
+    "metaPath": "patches/reg/music/admin_1780799583484.json"
+  },
+  {
+    "title": "Reg - 专注模式",
+    "author": "admin",
+    "petId": "reg",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/reg/focus/admin_1780799575392.webp",
+    "createdTime": "2026-06-07T02:32:55.392Z",
+    "metaPath": "patches/reg/focus/admin_1780799575392.json"
+  },
+  {
+    "title": "Reg - 功德模式",
+    "author": "admin",
+    "petId": "reg",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/reg/merit/admin_1780799560325.webp",
+    "createdTime": "2026-06-07T02:32:40.325Z",
+    "metaPath": "patches/reg/merit/admin_1780799560325.json"
+  },
+  {
+    "title": "Reg - 音乐律动",
+    "author": "admin",
+    "petId": "reg",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 150,
+    "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/reg/music/admin_1780799243513.webp",
     "createdTime": "2026-06-07T02:27:23.513Z",
     "metaPath": "patches/reg/music/admin_1780799243513.json"
