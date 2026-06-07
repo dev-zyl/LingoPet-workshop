@@ -1,5 +1,41 @@
 [
   {
+    "title": "纳西妲 - 专注模式",
+    "author": "admin",
+    "petId": "nahida",
+    "actionType": "focus",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/nahida/focus/admin_1780806915556.webp",
+    "createdTime": "2026-06-07T04:35:15.556Z",
+    "metaPath": "patches/nahida/focus/admin_1780806915556.json"
+  },
+  {
+    "title": "纳西妲 - 功德模式",
+    "author": "admin",
+    "petId": "nahida",
+    "actionType": "merit",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/nahida/merit/admin_1780806906943.webp",
+    "createdTime": "2026-06-07T04:35:06.943Z",
+    "metaPath": "patches/nahida/merit/admin_1780806906943.json"
+  },
+  {
+    "title": "纳西妲 - 音乐律动",
+    "author": "admin",
+    "petId": "nahida",
+    "actionType": "music",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/nahida/music/admin_1780806899049.webp",
+    "createdTime": "2026-06-07T04:34:59.049Z",
+    "metaPath": "patches/nahida/music/admin_1780806899049.json"
+  },
+  {
     "title": "Reg - 音乐律动",
     "author": "admin",
     "petId": "reg",
