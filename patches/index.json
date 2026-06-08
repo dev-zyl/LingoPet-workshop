@@ -420,18 +420,6 @@
     "metaPath": "patches/miaodex/music/admin_1779769296115.json"
   },
   {
-    "title": "Kimlet Hover Clap - 专注模式",
-    "author": "admin",
-    "petId": "kimlet-hover-clap",
-    "actionType": "focus",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "专注看书",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/kimlet-hover-clap/focus/admin_1779764777250.webp",
-    "createdTime": "2026-05-26T03:06:17.250Z",
-    "metaPath": "patches/kimlet-hover-clap/focus/admin_1779764777250.json"
-  },
-  {
     "title": "Doro 功德模式",
     "author": "admin",
     "petId": "doro",
