@@ -348,30 +348,6 @@
     "metaPath": "patches/kunkun-pixel/music/神秘宠物训练师_1779899004282.json"
   },
   {
-    "title": "KunKun Pixel - 功德模式",
-    "author": "神秘宠物训练师",
-    "petId": "kunkun-pixel",
-    "actionType": "merit",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/kunkun-pixel/merit/神秘宠物训练师_1779898273539.webp",
-    "createdTime": "2026-05-27T16:11:13.539Z",
-    "metaPath": "patches/kunkun-pixel/merit/神秘宠物训练师_1779898273539.json"
-  },
-  {
-    "title": "KunKun Pixel - 功德模式",
-    "author": "神秘宠物训练师",
-    "petId": "kunkun-pixel",
-    "actionType": "merit",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/kunkun-pixel/merit/神秘宠物训练师_1779897889997.webp",
-    "createdTime": "2026-05-27T16:04:49.997Z",
-    "metaPath": "patches/kunkun-pixel/merit/神秘宠物训练师_1779897889997.json"
-  },
-  {
     "title": "Doro - 专注模式",
     "author": "神秘宠物训练师",
     "petId": "doro",
