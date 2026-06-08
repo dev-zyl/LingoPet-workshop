@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "createdTime": "2026-06-08T16:06:25.293Z",
+  "items": [
+    {
+      "title": "哈吉蜂 - 功德模式",
+      "author": "anonymous",
+      "petId": "1",
+      "actionType": "merit",
+      "status": "import-only",
+      "framesCount": 4,
+      "frameDuration": 150,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/handoffs/1780934785293_85r7ocgd/anonymous_1780934785293_01.webp",
+      "createdTime": "2026-06-08T16:06:25.293Z",
+      "metaPath": ""
+    },
+    {
+      "title": "哈吉蜂 - 音乐律动",
+      "author": "anonymous",
+      "petId": "1",
+      "actionType": "music",
+      "status": "import-only",
+      "framesCount": 8,
+      "frameDuration": 140,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/handoffs/1780934785293_85r7ocgd/anonymous_1780934785293_02.webp",
+      "createdTime": "2026-06-08T16:06:25.293Z",
+      "metaPath": ""
+    },
+    {
+      "title": "哈吉蜂 - 专注模式",
+      "author": "anonymous",
+      "petId": "1",
+      "actionType": "focus",
+      "status": "import-only",
+      "framesCount": 4,
+      "frameDuration": 300,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/handoffs/1780934785293_85r7ocgd/anonymous_1780934785293_03.webp",
+      "createdTime": "2026-06-08T16:06:25.293Z",
+      "metaPath": ""
+    }
+  ]
+}
