@@ -3,11 +3,12 @@
   "author": "anonymous",
   "petId": "doro",
   "actionType": "focus",
-  "status": "published",
+  "status": "hidden",
   "framesCount": 4,
   "frameDuration": 300,
   "promptUsed": "",
   "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/doro/focus/anonymous_1780982105393_06.webp",
   "createdTime": "2026-06-09T05:15:05.393Z",
-  "metaPath": "patches/doro/focus/anonymous_1780982105393_06.json"
+  "metaPath": "patches/doro/focus/anonymous_1780982105393_06.json",
+  "updatedTime": "2026-06-09T16:04:50.723Z"
 }
