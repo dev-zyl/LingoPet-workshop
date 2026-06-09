@@ -1,0 +1,13 @@
+{
+  "title": "KunKun Pixel - 音乐律动",
+  "author": "anonymous",
+  "petId": "kunkun-pixel",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/music/anonymous_1780987100166_05.webp",
+  "createdTime": "2026-06-09T06:38:20.166Z",
+  "metaPath": "patches/kunkun-pixel/music/anonymous_1780987100166_05.json"
+}
