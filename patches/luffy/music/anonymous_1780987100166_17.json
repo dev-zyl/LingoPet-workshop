@@ -1,0 +1,13 @@
+{
+  "title": "Luffy - 音乐律动",
+  "author": "anonymous",
+  "petId": "luffy",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/luffy/music/anonymous_1780987100166_17.webp",
+  "createdTime": "2026-06-09T06:38:20.166Z",
+  "metaPath": "patches/luffy/music/anonymous_1780987100166_17.json"
+}
