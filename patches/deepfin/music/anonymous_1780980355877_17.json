@@ -1,0 +1,13 @@
+{
+  "title": "Deepfin - 音乐律动",
+  "author": "anonymous",
+  "petId": "deepfin",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/deepfin/music/anonymous_1780980355877_17.webp",
+  "createdTime": "2026-06-09T04:45:55.877Z",
+  "metaPath": "patches/deepfin/music/anonymous_1780980355877_17.json"
+}
