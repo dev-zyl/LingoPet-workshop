@@ -1,0 +1,13 @@
+{
+  "title": "Kun Like - 音乐律动",
+  "author": "anonymous",
+  "petId": "kun-like",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-like/music/anonymous_1780987100166_08.webp",
+  "createdTime": "2026-06-09T06:38:20.166Z",
+  "metaPath": "patches/kun-like/music/anonymous_1780987100166_08.json"
+}
