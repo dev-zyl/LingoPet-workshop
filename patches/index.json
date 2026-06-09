@@ -3884,7 +3884,9 @@
     "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/merit/admin_1779770049902.webp",
     "createdTime": "2026-05-26T04:34:09.902Z",
-    "metaPath": "patches/doro/merit/admin_1779770049902.json"
+    "metaPath": "patches/doro/merit/admin_1779770049902.json",
+    "status": "hidden",
+    "updatedTime": "2026-06-09T16:05:23.813Z"
   },
   {
     "title": "Doro - 音乐律动",
