@@ -1,0 +1,13 @@
+{
+  "title": "Kun Chick - 音乐律动",
+  "author": "anonymous",
+  "petId": "kun-chick",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-chick/music/anonymous_1780986601661_12.webp",
+  "createdTime": "2026-06-09T06:30:01.661Z",
+  "metaPath": "patches/kun-chick/music/anonymous_1780986601661_12.json"
+}
