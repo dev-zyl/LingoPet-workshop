@@ -1,0 +1,13 @@
+{
+  "title": "helpfulYIER - 音乐律动",
+  "author": "anonymous",
+  "petId": "helpfulyier",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/helpfulyier/music/anonymous_1780982639515_14.webp",
+  "createdTime": "2026-06-09T05:23:59.515Z",
+  "metaPath": "patches/helpfulyier/music/anonymous_1780982639515_14.json"
+}
