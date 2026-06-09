@@ -1,0 +1,13 @@
+{
+  "title": "Aimisi - 音乐律动",
+  "author": "anonymous",
+  "petId": "aimisi",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/aimisi/music/anonymous_1780978970653_08.webp",
+  "createdTime": "2026-06-09T04:22:50.653Z",
+  "metaPath": "patches/aimisi/music/anonymous_1780978970653_08.json"
+}
