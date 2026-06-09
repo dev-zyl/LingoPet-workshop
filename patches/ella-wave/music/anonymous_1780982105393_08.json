@@ -1,0 +1,13 @@
+{
+  "title": "Ella Wave - 音乐律动",
+  "author": "anonymous",
+  "petId": "ella-wave",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ella-wave/music/anonymous_1780982105393_08.webp",
+  "createdTime": "2026-06-09T05:15:05.393Z",
+  "metaPath": "patches/ella-wave/music/anonymous_1780982105393_08.json"
+}
