@@ -1,5 +1,18 @@
 [
   {
+    "title": "2B - 音乐律动",
+    "author": "admin",
+    "petId": "nier-2b",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nier-2b/music/admin_1781008405746_01.webp",
+    "createdTime": "2026-06-09T12:33:25.746Z",
+    "metaPath": "patches/nier-2b/music/admin_1781008405746_01.json"
+  },
+  {
     "title": "2B - 专注模式",
     "author": "admin",
     "petId": "nier-2b",
