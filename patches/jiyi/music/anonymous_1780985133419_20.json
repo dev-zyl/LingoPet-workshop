@@ -1,0 +1,13 @@
+{
+  "title": "吉伊 - 音乐律动",
+  "author": "anonymous",
+  "petId": "jiyi",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/jiyi/music/anonymous_1780985133419_20.webp",
+  "createdTime": "2026-06-09T06:05:33.419Z",
+  "metaPath": "patches/jiyi/music/anonymous_1780985133419_20.json"
+}
