@@ -3858,7 +3858,9 @@
     "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/music/神秘宠物训练师_1779895966229.webp",
     "createdTime": "2026-05-27T15:32:46.229Z",
-    "metaPath": "patches/doro/music/神秘宠物训练师_1779895966229.json"
+    "metaPath": "patches/doro/music/神秘宠物训练师_1779895966229.json",
+    "status": "hidden",
+    "updatedTime": "2026-06-09T16:05:19.272Z"
   },
   {
     "title": "Prince Run - 功德模式",
