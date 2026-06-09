@@ -3889,7 +3889,9 @@
     "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/music/admin_1779769596822.webp",
     "createdTime": "2026-05-26T04:26:36.822Z",
-    "metaPath": "patches/doro/music/admin_1779769596822.json"
+    "metaPath": "patches/doro/music/admin_1779769596822.json",
+    "status": "hidden",
+    "updatedTime": "2026-06-09T16:04:00.892Z"
   },
   {
     "title": "MiaoDex - 音乐律动",
