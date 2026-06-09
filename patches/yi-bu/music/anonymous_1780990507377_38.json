@@ -1,0 +1,13 @@
+{
+  "title": "YiBu - 音乐律动",
+  "author": "anonymous",
+  "petId": "yi-bu",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yi-bu/music/anonymous_1780990507377_38.webp",
+  "createdTime": "2026-06-09T07:35:07.377Z",
+  "metaPath": "patches/yi-bu/music/anonymous_1780990507377_38.json"
+}
