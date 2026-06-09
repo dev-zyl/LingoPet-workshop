@@ -3,11 +3,12 @@
   "author": "anonymous",
   "petId": "doro",
   "actionType": "music",
-  "status": "published",
+  "status": "hidden",
   "framesCount": 8,
   "frameDuration": 140,
   "promptUsed": "",
   "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/doro/music/anonymous_1780982105393_05.webp",
   "createdTime": "2026-06-09T05:15:05.393Z",
-  "metaPath": "patches/doro/music/anonymous_1780982105393_05.json"
+  "metaPath": "patches/doro/music/anonymous_1780982105393_05.json",
+  "updatedTime": "2026-06-09T16:04:27.031Z"
 }
