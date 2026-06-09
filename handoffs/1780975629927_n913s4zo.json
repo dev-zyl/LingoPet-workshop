@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "createdTime": "2026-06-09T03:27:09.927Z",
+  "items": [
+    {
+      "title": "Aemeath - 专注模式",
+      "author": "anonymous",
+      "petId": "Aemeath",
+      "actionType": "focus",
+      "status": "import-only",
+      "framesCount": 4,
+      "frameDuration": 300,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/handoffs/1780975629927_n913s4zo/anonymous_1780975629927_01.webp",
+      "createdTime": "2026-06-09T03:27:09.927Z",
+      "metaPath": ""
+    }
+  ]
+}
