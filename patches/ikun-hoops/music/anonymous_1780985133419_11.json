@@ -1,0 +1,13 @@
+{
+  "title": "IKUN Hoops - 音乐律动",
+  "author": "anonymous",
+  "petId": "ikun-hoops",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-hoops/music/anonymous_1780985133419_11.webp",
+  "createdTime": "2026-06-09T06:05:33.419Z",
+  "metaPath": "patches/ikun-hoops/music/anonymous_1780985133419_11.json"
+}
