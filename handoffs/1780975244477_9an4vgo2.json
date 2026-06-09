@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "createdTime": "2026-06-09T03:20:44.477Z",
+  "items": [
+    {
+      "title": "Aemeath - 音乐律动",
+      "author": "anonymous",
+      "petId": "Aemeath",
+      "actionType": "music",
+      "status": "published",
+      "framesCount": 8,
+      "frameDuration": 140,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/Aemeath/music/anonymous_1780975244477_01.webp",
+      "createdTime": "2026-06-09T03:20:44.477Z",
+      "metaPath": "patches/Aemeath/music/anonymous_1780975244477_01.json"
+    }
+  ]
+}
