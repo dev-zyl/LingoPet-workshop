@@ -1,0 +1,13 @@
+{
+  "title": "StarJotaro - 音乐律动",
+  "author": "anonymous",
+  "petId": "starjotaro",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/starjotaro/music/anonymous_1780989237007_47.webp",
+  "createdTime": "2026-06-09T07:13:57.007Z",
+  "metaPath": "patches/starjotaro/music/anonymous_1780989237007_47.json"
+}
