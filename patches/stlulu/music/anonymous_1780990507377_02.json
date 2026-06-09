@@ -1,0 +1,13 @@
+{
+  "title": "lulu - 音乐律动",
+  "author": "anonymous",
+  "petId": "stlulu",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/stlulu/music/anonymous_1780990507377_02.webp",
+  "createdTime": "2026-06-09T07:35:07.377Z",
+  "metaPath": "patches/stlulu/music/anonymous_1780990507377_02.json"
+}
