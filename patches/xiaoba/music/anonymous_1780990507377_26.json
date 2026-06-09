@@ -1,0 +1,13 @@
+{
+  "title": "小八 - 音乐律动",
+  "author": "anonymous",
+  "petId": "xiaoba",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xiaoba/music/anonymous_1780990507377_26.webp",
+  "createdTime": "2026-06-09T07:35:07.377Z",
+  "metaPath": "patches/xiaoba/music/anonymous_1780990507377_26.json"
+}
