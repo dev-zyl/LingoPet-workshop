@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "createdTime": "2026-06-09T04:33:37.413Z",
+  "items": [
+    {
+      "title": "Anya - 功德模式",
+      "author": "anonymous",
+      "petId": "anya",
+      "actionType": "merit",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 150,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/anya/merit/anonymous_1780979617413_01.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/anya/merit/anonymous_1780979617413_01.json"
+    },
+    {
+      "title": "Anya - 音乐律动",
+      "author": "anonymous",
+      "petId": "anya",
+      "actionType": "music",
+      "status": "published",
+      "framesCount": 8,
+      "frameDuration": 140,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/anya/music/anonymous_1780979617413_02.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/anya/music/anonymous_1780979617413_02.json"
+    },
+    {
+      "title": "Anya - 专注模式",
+      "author": "anonymous",
+      "petId": "anya",
+      "actionType": "focus",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 300,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/anya/focus/anonymous_1780979617413_03.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/anya/focus/anonymous_1780979617413_03.json"
+    },
+    {
+      "title": "BananaCat - 功德模式",
+      "author": "anonymous",
+      "petId": "bananacat",
+      "actionType": "merit",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 150,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/bananacat/merit/anonymous_1780979617413_04.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/bananacat/merit/anonymous_1780979617413_04.json"
+    },
+    {
+      "title": "BananaCat - 音乐律动",
+      "author": "anonymous",
+      "petId": "bananacat",
+      "actionType": "music",
+      "status": "published",
+      "framesCount": 8,
+      "frameDuration": 140,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/bananacat/music/anonymous_1780979617413_05.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/bananacat/music/anonymous_1780979617413_05.json"
+    },
+    {
+      "title": "BananaCat - 专注模式",
+      "author": "anonymous",
+      "petId": "bananacat",
+      "actionType": "focus",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 300,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/bananacat/focus/anonymous_1780979617413_06.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/bananacat/focus/anonymous_1780979617413_06.json"
+    },
+    {
+      "title": "篮球小鸡 - 功德模式",
+      "author": "anonymous",
+      "petId": "basketball-chick",
+      "actionType": "merit",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 150,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/merit/anonymous_1780979617413_07.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/basketball-chick/merit/anonymous_1780979617413_07.json"
+    },
+    {
+      "title": "篮球小鸡 - 音乐律动",
+      "author": "anonymous",
+      "petId": "basketball-chick",
+      "actionType": "music",
+      "status": "published",
+      "framesCount": 8,
+      "frameDuration": 140,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/music/anonymous_1780979617413_08.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/basketball-chick/music/anonymous_1780979617413_08.json"
+    },
+    {
+      "title": "篮球小鸡 - 专注模式",
+      "author": "anonymous",
+      "petId": "basketball-chick",
+      "actionType": "focus",
+      "status": "published",
+      "framesCount": 4,
+      "frameDuration": 300,
+      "promptUsed": "",
+      "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/focus/anonymous_1780979617413_09.webp",
+      "createdTime": "2026-06-09T04:33:37.413Z",
+      "metaPath": "patches/basketball-chick/focus/anonymous_1780979617413_09.json"
+    }
+  ]
+}
