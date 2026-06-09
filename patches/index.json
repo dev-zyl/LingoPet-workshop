@@ -1,18 +1,5 @@
 [
   {
-    "title": "雅儿贝德 - 功德模式",
-    "author": "anonymous",
-    "petId": "albedo-real-comic",
-    "actionType": "merit",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/albedo-real-comic/merit/anonymous_1780936810717_04.webp",
-    "createdTime": "2026-06-08T16:40:10.717Z",
-    "metaPath": "patches/albedo-real-comic/merit/anonymous_1780936810717_04.json"
-  },
-  {
     "title": "雅儿贝德 - 专注模式",
     "author": "anonymous",
     "petId": "albedo-real-comic",
