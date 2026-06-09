@@ -1,0 +1,13 @@
+{
+  "title": "篮球小鸡 - 音乐律动",
+  "author": "anonymous",
+  "petId": "basketball-chick",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/music/anonymous_1780979617413_08.webp",
+  "createdTime": "2026-06-09T04:33:37.413Z",
+  "metaPath": "patches/basketball-chick/music/anonymous_1780979617413_08.json"
+}
