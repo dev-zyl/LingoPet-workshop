@@ -1,0 +1,13 @@
+{
+  "title": "咕嘎咕嘎 - 音乐律动",
+  "author": "anonymous",
+  "petId": "guga-guga",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/guga-guga/music/anonymous_1780982639515_08.webp",
+  "createdTime": "2026-06-09T05:23:59.515Z",
+  "metaPath": "patches/guga-guga/music/anonymous_1780982639515_08.json"
+}
