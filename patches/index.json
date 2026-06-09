@@ -3844,7 +3844,9 @@
     "promptUsed": "",
     "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/focus/神秘宠物训练师_1779895974199.webp",
     "createdTime": "2026-05-27T15:32:54.199Z",
-    "metaPath": "patches/doro/focus/神秘宠物训练师_1779895974199.json"
+    "metaPath": "patches/doro/focus/神秘宠物训练师_1779895974199.json",
+    "status": "hidden",
+    "updatedTime": "2026-06-09T16:05:15.927Z"
   },
   {
     "title": "Doro - 音乐律动",
