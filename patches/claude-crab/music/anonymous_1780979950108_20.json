@@ -1,0 +1,13 @@
+{
+  "title": "Claude Crab - 音乐律动",
+  "author": "anonymous",
+  "petId": "claude-crab",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/claude-crab/music/anonymous_1780979950108_20.webp",
+  "createdTime": "2026-06-09T04:39:10.108Z",
+  "metaPath": "patches/claude-crab/music/anonymous_1780979950108_20.json"
+}
