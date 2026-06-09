@@ -1,0 +1,13 @@
+{
+  "title": "Rolling - 音乐律动",
+  "author": "anonymous",
+  "petId": "rolling",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rolling/music/anonymous_1780989237007_23.webp",
+  "createdTime": "2026-06-09T07:13:57.007Z",
+  "metaPath": "patches/rolling/music/anonymous_1780989237007_23.json"
+}
