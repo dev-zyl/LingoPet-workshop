@@ -1,0 +1,13 @@
+{
+  "title": "daodun - 音乐律动",
+  "author": "anonymous",
+  "petId": "daodun",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/daodun/music/anonymous_1780980355877_11.webp",
+  "createdTime": "2026-06-09T04:45:55.877Z",
+  "metaPath": "patches/daodun/music/anonymous_1780980355877_11.json"
+}
