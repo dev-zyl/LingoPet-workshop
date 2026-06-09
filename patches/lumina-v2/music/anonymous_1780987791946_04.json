@@ -1,0 +1,13 @@
+{
+  "title": "ルミナ v2.0 - 音乐律动",
+  "author": "anonymous",
+  "petId": "lumina-v2",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/lumina-v2/music/anonymous_1780987791946_04.webp",
+  "createdTime": "2026-06-09T06:49:51.946Z",
+  "metaPath": "patches/lumina-v2/music/anonymous_1780987791946_04.json"
+}
