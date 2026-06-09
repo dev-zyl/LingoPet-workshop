@@ -1,0 +1,13 @@
+{
+  "title": "鸡哥ikun - 音乐律动",
+  "author": "anonymous",
+  "petId": "ikun-pet",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-pet/music/anonymous_1780985133419_14.webp",
+  "createdTime": "2026-06-09T06:05:33.419Z",
+  "metaPath": "patches/ikun-pet/music/anonymous_1780985133419_14.json"
+}
