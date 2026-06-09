@@ -1,18 +1,5 @@
 [
   {
-    "title": "Aemeath - 专注模式",
-    "author": "anonymous",
-    "petId": "Aemeath",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/Aemeath/focus/anonymous_1780936810717_03.webp",
-    "createdTime": "2026-06-08T16:40:10.717Z",
-    "metaPath": "patches/Aemeath/focus/anonymous_1780936810717_03.json"
-  },
-  {
     "title": "雅儿贝德 - 功德模式",
     "author": "anonymous",
     "petId": "albedo-real-comic",
