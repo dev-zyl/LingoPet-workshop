@@ -8,6 +8,19 @@
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nier-2b/focus/admin_1781006003309_01.webp",
+    "createdTime": "2026-06-09T11:53:23.309Z",
+    "metaPath": "patches/nier-2b/focus/admin_1781006003309_01.json"
+  },
+  {
+    "title": "2B - 专注模式",
+    "author": "admin",
+    "petId": "nier-2b",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
     "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nier-2b/focus/admin_1781005777556_01.webp",
     "createdTime": "2026-06-09T11:49:37.556Z",
     "metaPath": "patches/nier-2b/focus/admin_1781005777556_01.json"
