@@ -1,0 +1,13 @@
+{
+  "title": "摸鱼奶龙 - 音乐律动",
+  "author": "anonymous",
+  "petId": "moyunailong",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/moyunailong/music/anonymous_1780987791946_13.webp",
+  "createdTime": "2026-06-09T06:49:51.946Z",
+  "metaPath": "patches/moyunailong/music/anonymous_1780987791946_13.json"
+}
