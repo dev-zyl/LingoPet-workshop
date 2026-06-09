@@ -1,0 +1,13 @@
+{
+  "title": "Kimlet Hover Clap - 音乐律动",
+  "author": "anonymous",
+  "petId": "kimlet-hover-clap",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kimlet-hover-clap/music/anonymous_1780986601661_03.webp",
+  "createdTime": "2026-06-09T06:30:01.661Z",
+  "metaPath": "patches/kimlet-hover-clap/music/anonymous_1780986601661_03.json"
+}
