@@ -1,5 +1,18 @@
 [
   {
+    "title": "2B - 功德模式",
+    "author": "admin",
+    "petId": "nier-2b",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nier-2b/merit/admin_1781009010862_01.webp",
+    "createdTime": "2026-06-09T12:43:30.862Z",
+    "metaPath": "patches/nier-2b/merit/admin_1781009010862_01.json"
+  },
+  {
     "title": "2B - 音乐律动",
     "author": "admin",
     "petId": "nier-2b",
