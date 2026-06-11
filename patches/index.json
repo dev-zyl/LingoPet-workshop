@@ -3859,20 +3859,6 @@
     "metaPath": "patches/kunkun-pixel/music/神秘宠物训练师_1779899004282.json"
   },
   {
-    "title": "Doro - 音乐律动",
-    "author": "神秘宠物训练师",
-    "petId": "doro",
-    "actionType": "music",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/doro/music/神秘宠物训练师_1779895966229.webp",
-    "createdTime": "2026-05-27T15:32:46.229Z",
-    "metaPath": "patches/doro/music/神秘宠物训练师_1779895966229.json",
-    "status": "hidden",
-    "updatedTime": "2026-06-09T16:05:19.272Z"
-  },
-  {
     "title": "Prince Run - 功德模式",
     "author": "admin",
     "petId": "prince-run",
