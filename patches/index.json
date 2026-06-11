@@ -1,5 +1,18 @@
 [
   {
+    "title": "Teto - 专注模式",
+    "author": "神秘宠物训练师",
+    "petId": "teto",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/teto/focus/神秘宠物训练师_1781196244635_01.webp",
+    "createdTime": "2026-06-11T16:44:04.635Z",
+    "metaPath": "patches/teto/focus/神秘宠物训练师_1781196244635_01.json"
+  },
+  {
     "title": "Teto - 功德模式",
     "author": "神秘宠物训练师",
     "petId": "teto",
