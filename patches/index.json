@@ -1,5 +1,18 @@
 [
   {
+    "title": "Teto-pet - 音乐律动",
+    "author": "LingoPet",
+    "petId": "teto-pet",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/teto-pet/music/LingoPet_1781199884604_01.webp",
+    "createdTime": "2026-06-11T17:44:44.604Z",
+    "metaPath": "patches/teto-pet/music/LingoPet_1781199884604_01.json"
+  },
+  {
     "title": "Teto-pet - 功德模式",
     "author": "LingoPet",
     "petId": "teto-pet",
