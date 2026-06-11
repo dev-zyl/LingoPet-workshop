@@ -1,5 +1,18 @@
 [
   {
+    "title": "Teto-pet - 专注模式",
+    "author": "LingoPet",
+    "petId": "teto-pet",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/teto-pet/focus/LingoPet_1781199891277_01.webp",
+    "createdTime": "2026-06-11T17:44:51.277Z",
+    "metaPath": "patches/teto-pet/focus/LingoPet_1781199891277_01.json"
+  },
+  {
     "title": "Teto-pet - 音乐律动",
     "author": "LingoPet",
     "petId": "teto-pet",
