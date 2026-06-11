@@ -1,5 +1,18 @@
 [
   {
+    "title": "Teto - 音乐律动",
+    "author": "神秘宠物训练师",
+    "petId": "teto",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/teto/music/神秘宠物训练师_1781189957654_01.webp",
+    "createdTime": "2026-06-11T14:59:17.654Z",
+    "metaPath": "patches/teto/music/神秘宠物训练师_1781189957654_01.json"
+  },
+  {
     "title": "bocchi - 音乐律动",
     "author": "神秘宠物训练师",
     "petId": "bocchi",
