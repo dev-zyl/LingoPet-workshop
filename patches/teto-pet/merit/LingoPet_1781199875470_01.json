@@ -1,0 +1,13 @@
+{
+  "title": "Teto-pet - 功德模式",
+  "author": "LingoPet",
+  "petId": "teto-pet",
+  "actionType": "merit",
+  "status": "published",
+  "framesCount": 4,
+  "frameDuration": 150,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/teto-pet/merit/LingoPet_1781199875470_01.webp",
+  "createdTime": "2026-06-11T17:44:35.470Z",
+  "metaPath": "patches/teto-pet/merit/LingoPet_1781199875470_01.json"
+}
