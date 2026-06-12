@@ -1,5 +1,18 @@
 [
   {
+    "title": "Water Bong - 音乐律动",
+    "author": "LingoPet",
+    "petId": "0xgingi-water-bong",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/0xgingi-water-bong/music/LingoPet_1781240482798_01.webp",
+    "createdTime": "2026-06-12T05:01:22.798Z",
+    "metaPath": "patches/0xgingi-water-bong/music/LingoPet_1781240482798_01.json"
+  },
+  {
     "title": "Water Bong - 专注模式",
     "author": "LingoPet",
     "petId": "0xgingi-water-bong",
