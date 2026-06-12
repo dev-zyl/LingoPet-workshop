@@ -1,5 +1,18 @@
 [
   {
+    "title": "Fuloowa - 功德模式",
+    "author": "LingoPet",
+    "petId": "abijoyfulgalaxy-fuloowa",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/abijoyfulgalaxy-fuloowa/merit/LingoPet_1781240923392_01.webp",
+    "createdTime": "2026-06-12T05:08:43.392Z",
+    "metaPath": "patches/abijoyfulgalaxy-fuloowa/merit/LingoPet_1781240923392_01.json"
+  },
+  {
     "title": "Fuloowa - 音乐律动",
     "author": "LingoPet",
     "petId": "abijoyfulgalaxy-fuloowa",
