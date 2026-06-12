@@ -1,5 +1,18 @@
 [
   {
+    "title": "蓝色小虎鲸 - 音乐律动",
+    "author": "LingoPet",
+    "petId": "-----",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/-----/music/LingoPet_1781239992461_01.webp",
+    "createdTime": "2026-06-12T04:53:12.461Z",
+    "metaPath": "patches/-----/music/LingoPet_1781239992461_01.json"
+  },
+  {
     "title": "摸鱼奶龙 (edit) - 功德模式",
     "author": "LingoPet",
     "petId": "------edit-",
