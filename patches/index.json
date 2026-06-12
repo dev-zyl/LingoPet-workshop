@@ -1,5 +1,18 @@
 [
   {
+    "title": "Absol Puff - 专注模式",
+    "author": "LingoPet",
+    "petId": "absol-puff",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/absol-puff/focus/LingoPet_1781241302344_01.webp",
+    "createdTime": "2026-06-12T05:15:02.344Z",
+    "metaPath": "patches/absol-puff/focus/LingoPet_1781241302344_01.json"
+  },
+  {
     "title": "Absol Puff - 功德模式",
     "author": "LingoPet",
     "petId": "absol-puff",
