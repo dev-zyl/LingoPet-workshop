@@ -1,5 +1,18 @@
 [
   {
+    "title": "黑米 - 专注模式",
+    "author": "LingoPet",
+    "petId": "--",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 125,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/--/focus/LingoPet_1781239713945_01.webp",
+    "createdTime": "2026-06-12T04:48:33.945Z",
+    "metaPath": "patches/--/focus/LingoPet_1781239713945_01.json"
+  },
+  {
     "title": "黑米 - 音乐律动",
     "author": "LingoPet",
     "petId": "--",
