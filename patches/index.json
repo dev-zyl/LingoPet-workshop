@@ -13,19 +13,6 @@
     "metaPath": "patches/abijoyfulgalaxy-fuloowa/merit/LingoPet_1781241011352_01.json"
   },
   {
-    "title": "Fuloowa - 音乐律动",
-    "author": "LingoPet",
-    "petId": "abijoyfulgalaxy-fuloowa",
-    "actionType": "music",
-    "status": "published",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/abijoyfulgalaxy-fuloowa/music/LingoPet_1781241005131_01.webp",
-    "createdTime": "2026-06-12T05:10:05.131Z",
-    "metaPath": "patches/abijoyfulgalaxy-fuloowa/music/LingoPet_1781241005131_01.json"
-  },
-  {
     "title": "Fuloowa - 功德模式",
     "author": "LingoPet",
     "petId": "abijoyfulgalaxy-fuloowa",
