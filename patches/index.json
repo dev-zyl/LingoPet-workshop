@@ -1,5 +1,18 @@
 [
   {
+    "title": "Absol Puff - 音乐律动",
+    "author": "LingoPet",
+    "petId": "absol-puff",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/absol-puff/music/LingoPet_1781241175654_01.webp",
+    "createdTime": "2026-06-12T05:12:55.654Z",
+    "metaPath": "patches/absol-puff/music/LingoPet_1781241175654_01.json"
+  },
+  {
     "title": "Fuloowa - 功德模式",
     "author": "LingoPet",
     "petId": "abijoyfulgalaxy-fuloowa",
