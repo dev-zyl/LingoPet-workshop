@@ -1,5 +1,18 @@
 [
   {
+    "title": "多宝 - 功德模式",
+    "author": "LingoPet",
+    "petId": "a337869746-pet",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/a337869746-pet/merit/LingoPet_1781240645351_01.webp",
+    "createdTime": "2026-06-12T05:04:05.351Z",
+    "metaPath": "patches/a337869746-pet/merit/LingoPet_1781240645351_01.json"
+  },
+  {
     "title": "多宝 - 音乐律动",
     "author": "LingoPet",
     "petId": "a337869746-pet",
