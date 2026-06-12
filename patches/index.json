@@ -1,5 +1,18 @@
 [
   {
+    "title": "Monthly salary cat（月薪猫） - 专注模式",
+    "author": "LingoPet",
+    "petId": "monthly-salary-cat",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/monthly-salary-cat/focus/LingoPet_1781269671320_01.webp",
+    "createdTime": "2026-06-12T13:07:51.320Z",
+    "metaPath": "patches/monthly-salary-cat/focus/LingoPet_1781269671320_01.json"
+  },
+  {
     "title": "Ace Taffy - 功德模式",
     "author": "LingoPet",
     "petId": "ace-taffy",
