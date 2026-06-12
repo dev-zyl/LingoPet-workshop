@@ -1,5 +1,18 @@
 [
   {
+    "title": "蓝色小虎鲸 - 专注模式",
+    "author": "LingoPet",
+    "petId": "-----",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/-----/focus/LingoPet_1781240058000_01.webp",
+    "createdTime": "2026-06-12T04:54:18.000Z",
+    "metaPath": "patches/-----/focus/LingoPet_1781240058000_01.json"
+  },
+  {
     "title": "蓝色小虎鲸 - 功德模式",
     "author": "LingoPet",
     "petId": "-----",
