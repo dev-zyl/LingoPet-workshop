@@ -1,5 +1,18 @@
 [
   {
+    "title": "多宝 - 专注模式",
+    "author": "LingoPet",
+    "petId": "a337869746-pet",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/a337869746-pet/focus/LingoPet_1781240688012_01.webp",
+    "createdTime": "2026-06-12T05:04:48.012Z",
+    "metaPath": "patches/a337869746-pet/focus/LingoPet_1781240688012_01.json"
+  },
+  {
     "title": "多宝 - 功德模式",
     "author": "LingoPet",
     "petId": "a337869746-pet",
