@@ -26,19 +26,6 @@
     "metaPath": "patches/abijoyfulgalaxy-fuloowa/music/LingoPet_1781241005131_01.json"
   },
   {
-    "title": "Fuloowa - 专注模式",
-    "author": "LingoPet",
-    "petId": "abijoyfulgalaxy-fuloowa",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/abijoyfulgalaxy-fuloowa/focus/LingoPet_1781240999190_01.webp",
-    "createdTime": "2026-06-12T05:09:59.190Z",
-    "metaPath": "patches/abijoyfulgalaxy-fuloowa/focus/LingoPet_1781240999190_01.json"
-  },
-  {
     "title": "Fuloowa - 功德模式",
     "author": "LingoPet",
     "petId": "abijoyfulgalaxy-fuloowa",
