@@ -1,5 +1,18 @@
 [
   {
+    "title": "摸鱼奶龙 (edit) - 专注模式",
+    "author": "LingoPet",
+    "petId": "------edit-",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/------edit-/focus/LingoPet_1781239928212_01.webp",
+    "createdTime": "2026-06-12T04:52:08.212Z",
+    "metaPath": "patches/------edit-/focus/LingoPet_1781239928212_01.json"
+  },
+  {
     "title": "黑米 - 功德模式",
     "author": "LingoPet",
     "petId": "--",
