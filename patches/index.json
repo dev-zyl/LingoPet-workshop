@@ -1,5 +1,18 @@
 [
   {
+    "title": "Ace Taffy - 专注模式",
+    "author": "LingoPet",
+    "petId": "ace-taffy",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ace-taffy/focus/LingoPet_1781241736639_01.webp",
+    "createdTime": "2026-06-12T05:22:16.639Z",
+    "metaPath": "patches/ace-taffy/focus/LingoPet_1781241736639_01.json"
+  },
+  {
     "title": "Ace Taffy - 音乐律动",
     "author": "LingoPet",
     "petId": "ace-taffy",
