@@ -1,0 +1,13 @@
+{
+  "title": "Ace Taffy - 音乐律动",
+  "author": "LingoPet",
+  "petId": "ace-taffy",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 8,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ace-taffy/music/LingoPet_1781241664516_01.webp",
+  "createdTime": "2026-06-12T05:21:04.516Z",
+  "metaPath": "patches/ace-taffy/music/LingoPet_1781241664516_01.json"
+}
