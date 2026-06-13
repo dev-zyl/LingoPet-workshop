@@ -5,7 +5,7 @@
     "petId": "monthly-salary-cat",
     "actionType": "music",
     "status": "published",
-    "framesCount": 8,
+    "framesCount": 5,
     "frameDuration": 140,
     "promptUsed": "",
     "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/monthly-salary-cat/music/LingoPet_1781319308347_01.webp",
@@ -611,6 +611,19 @@
     "metaPath": "patches/nier-2b/focus/admin_1781005777556_01.json"
   },
   {
+    "title": "lulu - 专注模式",
+    "author": "anonymous",
+    "petId": "stlulu",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/stlulu/focus/anonymous_1780990507377_03.webp",
+    "createdTime": "2026-06-09T07:35:07.377Z",
+    "metaPath": "patches/stlulu/focus/anonymous_1780990507377_03.json"
+  },
+  {
     "title": "lulu - 功德模式",
     "author": "anonymous",
     "petId": "stlulu",
@@ -637,17 +650,17 @@
     "metaPath": "patches/stlulu/music/anonymous_1780990507377_02.json"
   },
   {
-    "title": "lulu - 专注模式",
+    "title": "哆啦a梦 - 专注模式",
     "author": "anonymous",
-    "petId": "stlulu",
+    "petId": "tabbit",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/stlulu/focus/anonymous_1780990507377_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/tabbit/focus/anonymous_1780990507377_06.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/stlulu/focus/anonymous_1780990507377_03.json"
+    "metaPath": "patches/tabbit/focus/anonymous_1780990507377_06.json"
   },
   {
     "title": "哆啦a梦 - 功德模式",
@@ -676,17 +689,17 @@
     "metaPath": "patches/tabbit/music/anonymous_1780990507377_05.json"
   },
   {
-    "title": "哆啦a梦 - 专注模式",
+    "title": "Taffy - 专注模式",
     "author": "anonymous",
-    "petId": "tabbit",
+    "petId": "taffy",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/tabbit/focus/anonymous_1780990507377_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/taffy/focus/anonymous_1780990507377_09.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/tabbit/focus/anonymous_1780990507377_06.json"
+    "metaPath": "patches/taffy/focus/anonymous_1780990507377_09.json"
   },
   {
     "title": "Taffy - 功德模式",
@@ -715,17 +728,17 @@
     "metaPath": "patches/taffy/music/anonymous_1780990507377_08.json"
   },
   {
-    "title": "Taffy - 专注模式",
+    "title": "The Knight - 专注模式",
     "author": "anonymous",
-    "petId": "taffy",
+    "petId": "the-knight",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/taffy/focus/anonymous_1780990507377_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/the-knight/focus/anonymous_1780990507377_12.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/taffy/focus/anonymous_1780990507377_09.json"
+    "metaPath": "patches/the-knight/focus/anonymous_1780990507377_12.json"
   },
   {
     "title": "The Knight - 功德模式",
@@ -754,17 +767,17 @@
     "metaPath": "patches/the-knight/music/anonymous_1780990507377_11.json"
   },
   {
-    "title": "The Knight - 专注模式",
+    "title": "Trump - 专注模式",
     "author": "anonymous",
-    "petId": "the-knight",
+    "petId": "trump",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/the-knight/focus/anonymous_1780990507377_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/trump/focus/anonymous_1780990507377_15.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/the-knight/focus/anonymous_1780990507377_12.json"
+    "metaPath": "patches/trump/focus/anonymous_1780990507377_15.json"
   },
   {
     "title": "Trump - 功德模式",
@@ -793,17 +806,17 @@
     "metaPath": "patches/trump/music/anonymous_1780990507377_14.json"
   },
   {
-    "title": "Trump - 专注模式",
+    "title": "Trumpet - 专注模式",
     "author": "anonymous",
-    "petId": "trump",
+    "petId": "trumpet",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/trump/focus/anonymous_1780990507377_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/trumpet/focus/anonymous_1780990507377_18.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/trump/focus/anonymous_1780990507377_15.json"
+    "metaPath": "patches/trumpet/focus/anonymous_1780990507377_18.json"
   },
   {
     "title": "Trumpet - 功德模式",
@@ -832,17 +845,17 @@
     "metaPath": "patches/trumpet/music/anonymous_1780990507377_17.json"
   },
   {
-    "title": "Trumpet - 专注模式",
+    "title": "Usagi - 专注模式",
     "author": "anonymous",
-    "petId": "trumpet",
+    "petId": "usagi",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/trumpet/focus/anonymous_1780990507377_18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/usagi/focus/anonymous_1780990507377_21.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/trumpet/focus/anonymous_1780990507377_18.json"
+    "metaPath": "patches/usagi/focus/anonymous_1780990507377_21.json"
   },
   {
     "title": "Usagi - 功德模式",
@@ -871,17 +884,17 @@
     "metaPath": "patches/usagi/music/anonymous_1780990507377_20.json"
   },
   {
-    "title": "Usagi - 专注模式",
+    "title": "Usagi Crawl - 专注模式",
     "author": "anonymous",
-    "petId": "usagi",
+    "petId": "usagi-crawl",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/usagi/focus/anonymous_1780990507377_21.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/usagi-crawl/focus/anonymous_1780990507377_24.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/usagi/focus/anonymous_1780990507377_21.json"
+    "metaPath": "patches/usagi-crawl/focus/anonymous_1780990507377_24.json"
   },
   {
     "title": "Usagi Crawl - 功德模式",
@@ -910,17 +923,17 @@
     "metaPath": "patches/usagi-crawl/music/anonymous_1780990507377_23.json"
   },
   {
-    "title": "Usagi Crawl - 专注模式",
+    "title": "小八 - 专注模式",
     "author": "anonymous",
-    "petId": "usagi-crawl",
+    "petId": "xiaoba",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/usagi-crawl/focus/anonymous_1780990507377_24.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xiaoba/focus/anonymous_1780990507377_27.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/usagi-crawl/focus/anonymous_1780990507377_24.json"
+    "metaPath": "patches/xiaoba/focus/anonymous_1780990507377_27.json"
   },
   {
     "title": "小八 - 功德模式",
@@ -949,17 +962,17 @@
     "metaPath": "patches/xiaoba/music/anonymous_1780990507377_26.json"
   },
   {
-    "title": "小八 - 专注模式",
+    "title": "Crayon Shin-chan - 专注模式",
     "author": "anonymous",
-    "petId": "xiaoba",
+    "petId": "xiaoxin",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xiaoba/focus/anonymous_1780990507377_27.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xiaoxin/focus/anonymous_1780990507377_30.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/xiaoba/focus/anonymous_1780990507377_27.json"
+    "metaPath": "patches/xiaoxin/focus/anonymous_1780990507377_30.json"
   },
   {
     "title": "Crayon Shin-chan - 功德模式",
@@ -988,17 +1001,17 @@
     "metaPath": "patches/xiaoxin/music/anonymous_1780990507377_29.json"
   },
   {
-    "title": "Crayon Shin-chan - 专注模式",
+    "title": "昔涟 - 专注模式",
     "author": "anonymous",
-    "petId": "xiaoxin",
+    "petId": "xilian",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xiaoxin/focus/anonymous_1780990507377_30.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xilian/focus/anonymous_1780990507377_33.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/xiaoxin/focus/anonymous_1780990507377_30.json"
+    "metaPath": "patches/xilian/focus/anonymous_1780990507377_33.json"
   },
   {
     "title": "昔涟 - 功德模式",
@@ -1027,17 +1040,17 @@
     "metaPath": "patches/xilian/music/anonymous_1780990507377_32.json"
   },
   {
-    "title": "昔涟 - 专注模式",
+    "title": "Yanami Anna - 专注模式",
     "author": "anonymous",
-    "petId": "xilian",
+    "petId": "yanami-anna",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xilian/focus/anonymous_1780990507377_33.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yanami-anna/focus/anonymous_1780990507377_36.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/xilian/focus/anonymous_1780990507377_33.json"
+    "metaPath": "patches/yanami-anna/focus/anonymous_1780990507377_36.json"
   },
   {
     "title": "Yanami Anna - 功德模式",
@@ -1066,17 +1079,17 @@
     "metaPath": "patches/yanami-anna/music/anonymous_1780990507377_35.json"
   },
   {
-    "title": "Yanami Anna - 专注模式",
+    "title": "YiBu - 专注模式",
     "author": "anonymous",
-    "petId": "yanami-anna",
+    "petId": "yi-bu",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yanami-anna/focus/anonymous_1780990507377_36.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yi-bu/focus/anonymous_1780990507377_39.webp",
     "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/yanami-anna/focus/anonymous_1780990507377_36.json"
+    "metaPath": "patches/yi-bu/focus/anonymous_1780990507377_39.json"
   },
   {
     "title": "YiBu - 功德模式",
@@ -1105,30 +1118,17 @@
     "metaPath": "patches/yi-bu/music/anonymous_1780990507377_38.json"
   },
   {
-    "title": "YiBu - 专注模式",
+    "title": "Mutsumi - 专注模式",
     "author": "anonymous",
-    "petId": "yi-bu",
+    "petId": "pet-mutsumi",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yi-bu/focus/anonymous_1780990507377_39.webp",
-    "createdTime": "2026-06-09T07:35:07.377Z",
-    "metaPath": "patches/yi-bu/focus/anonymous_1780990507377_39.json"
-  },
-  {
-    "title": "YiBu - 专注模式",
-    "author": "anonymous",
-    "petId": "yi-bu",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yi-bu/focus/anonymous_1780989237007_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-mutsumi/focus/anonymous_1780989237007_03.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/yi-bu/focus/anonymous_1780989237007_01.json"
+    "metaPath": "patches/pet-mutsumi/focus/anonymous_1780989237007_03.json"
   },
   {
     "title": "Mutsumi - 音乐律动",
@@ -1144,17 +1144,17 @@
     "metaPath": "patches/pet-mutsumi/music/anonymous_1780989237007_02.json"
   },
   {
-    "title": "Mutsumi - 专注模式",
+    "title": "Sakiko - 专注模式",
     "author": "anonymous",
-    "petId": "pet-mutsumi",
+    "petId": "pet-sakiko",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-mutsumi/focus/anonymous_1780989237007_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-sakiko/focus/anonymous_1780989237007_06.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/pet-mutsumi/focus/anonymous_1780989237007_03.json"
+    "metaPath": "patches/pet-sakiko/focus/anonymous_1780989237007_06.json"
   },
   {
     "title": "Sakiko - 功德模式",
@@ -1183,17 +1183,17 @@
     "metaPath": "patches/pet-sakiko/music/anonymous_1780989237007_05.json"
   },
   {
-    "title": "Sakiko - 专注模式",
+    "title": "Soyo - 专注模式",
     "author": "anonymous",
-    "petId": "pet-sakiko",
+    "petId": "pet-soyo",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-sakiko/focus/anonymous_1780989237007_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-soyo/focus/anonymous_1780989237007_09.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/pet-sakiko/focus/anonymous_1780989237007_06.json"
+    "metaPath": "patches/pet-soyo/focus/anonymous_1780989237007_09.json"
   },
   {
     "title": "Soyo - 功德模式",
@@ -1222,17 +1222,17 @@
     "metaPath": "patches/pet-soyo/music/anonymous_1780989237007_08.json"
   },
   {
-    "title": "Soyo - 专注模式",
+    "title": "Prince Run - 专注模式",
     "author": "anonymous",
-    "petId": "pet-soyo",
+    "petId": "prince-run",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-soyo/focus/anonymous_1780989237007_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/prince-run/focus/anonymous_1780989237007_12.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/pet-soyo/focus/anonymous_1780989237007_09.json"
+    "metaPath": "patches/prince-run/focus/anonymous_1780989237007_12.json"
   },
   {
     "title": "Prince Run - 功德模式",
@@ -1261,17 +1261,17 @@
     "metaPath": "patches/prince-run/music/anonymous_1780989237007_11.json"
   },
   {
-    "title": "Prince Run - 专注模式",
+    "title": "QQ - 专注模式",
     "author": "anonymous",
-    "petId": "prince-run",
+    "petId": "qq",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/prince-run/focus/anonymous_1780989237007_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/qq/focus/anonymous_1780989237007_15.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/prince-run/focus/anonymous_1780989237007_12.json"
+    "metaPath": "patches/qq/focus/anonymous_1780989237007_15.json"
   },
   {
     "title": "QQ - 功德模式",
@@ -1300,17 +1300,17 @@
     "metaPath": "patches/qq/music/anonymous_1780989237007_14.json"
   },
   {
-    "title": "QQ - 专注模式",
+    "title": "Rei - 专注模式",
     "author": "anonymous",
-    "petId": "qq",
+    "petId": "rei",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/qq/focus/anonymous_1780989237007_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rei/focus/anonymous_1780989237007_18.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/qq/focus/anonymous_1780989237007_15.json"
+    "metaPath": "patches/rei/focus/anonymous_1780989237007_18.json"
   },
   {
     "title": "Rei - 功德模式",
@@ -1339,17 +1339,17 @@
     "metaPath": "patches/rei/music/anonymous_1780989237007_17.json"
   },
   {
-    "title": "Rei - 专注模式",
+    "title": "Ricklet - 专注模式",
     "author": "anonymous",
-    "petId": "rei",
+    "petId": "ricklet",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rei/focus/anonymous_1780989237007_18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ricklet/focus/anonymous_1780989237007_21.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/rei/focus/anonymous_1780989237007_18.json"
+    "metaPath": "patches/ricklet/focus/anonymous_1780989237007_21.json"
   },
   {
     "title": "Ricklet - 功德模式",
@@ -1378,17 +1378,17 @@
     "metaPath": "patches/ricklet/music/anonymous_1780989237007_20.json"
   },
   {
-    "title": "Ricklet - 专注模式",
+    "title": "Rolling - 专注模式",
     "author": "anonymous",
-    "petId": "ricklet",
+    "petId": "rolling",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ricklet/focus/anonymous_1780989237007_21.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rolling/focus/anonymous_1780989237007_24.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/ricklet/focus/anonymous_1780989237007_21.json"
+    "metaPath": "patches/rolling/focus/anonymous_1780989237007_24.json"
   },
   {
     "title": "Rolling - 功德模式",
@@ -1417,17 +1417,17 @@
     "metaPath": "patches/rolling/music/anonymous_1780989237007_23.json"
   },
   {
-    "title": "Rolling - 专注模式",
+    "title": "Ruixing Lion 瑞星小狮子Kaka - 专注模式",
     "author": "anonymous",
-    "petId": "rolling",
+    "petId": "ruixing",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rolling/focus/anonymous_1780989237007_24.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ruixing/focus/anonymous_1780989237007_27.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/rolling/focus/anonymous_1780989237007_24.json"
+    "metaPath": "patches/ruixing/focus/anonymous_1780989237007_27.json"
   },
   {
     "title": "Ruixing Lion 瑞星小狮子Kaka - 功德模式",
@@ -1456,17 +1456,17 @@
     "metaPath": "patches/ruixing/music/anonymous_1780989237007_26.json"
   },
   {
-    "title": "Ruixing Lion 瑞星小狮子Kaka - 专注模式",
+    "title": "RX-78-2 Gundam - 专注模式",
     "author": "anonymous",
-    "petId": "ruixing",
+    "petId": "rx-78-2-gundam",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ruixing/focus/anonymous_1780989237007_27.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rx-78-2-gundam/focus/anonymous_1780989237007_30.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/ruixing/focus/anonymous_1780989237007_27.json"
+    "metaPath": "patches/rx-78-2-gundam/focus/anonymous_1780989237007_30.json"
   },
   {
     "title": "RX-78-2 Gundam - 功德模式",
@@ -1495,17 +1495,17 @@
     "metaPath": "patches/rx-78-2-gundam/music/anonymous_1780989237007_29.json"
   },
   {
-    "title": "RX-78-2 Gundam - 专注模式",
+    "title": "桜羽 エマ - 专注模式",
     "author": "anonymous",
-    "petId": "rx-78-2-gundam",
+    "petId": "sakuraba-ema",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/rx-78-2-gundam/focus/anonymous_1780989237007_30.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/sakuraba-ema/focus/anonymous_1780989237007_33.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/rx-78-2-gundam/focus/anonymous_1780989237007_30.json"
+    "metaPath": "patches/sakuraba-ema/focus/anonymous_1780989237007_33.json"
   },
   {
     "title": "桜羽 エマ - 功德模式",
@@ -1534,17 +1534,17 @@
     "metaPath": "patches/sakuraba-ema/music/anonymous_1780989237007_32.json"
   },
   {
-    "title": "桜羽 エマ - 专注模式",
+    "title": "Salty Clerk - 专注模式",
     "author": "anonymous",
-    "petId": "sakuraba-ema",
+    "petId": "salty-clerk",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/sakuraba-ema/focus/anonymous_1780989237007_33.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/salty-clerk/focus/anonymous_1780989237007_36.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/sakuraba-ema/focus/anonymous_1780989237007_33.json"
+    "metaPath": "patches/salty-clerk/focus/anonymous_1780989237007_36.json"
   },
   {
     "title": "Salty Clerk - 功德模式",
@@ -1573,17 +1573,17 @@
     "metaPath": "patches/salty-clerk/music/anonymous_1780989237007_35.json"
   },
   {
-    "title": "Salty Clerk - 专注模式",
+    "title": "Serious Cat - 专注模式",
     "author": "anonymous",
-    "petId": "salty-clerk",
+    "petId": "serious-cat",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/salty-clerk/focus/anonymous_1780989237007_36.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/serious-cat/focus/anonymous_1780989237007_39.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/salty-clerk/focus/anonymous_1780989237007_36.json"
+    "metaPath": "patches/serious-cat/focus/anonymous_1780989237007_39.json"
   },
   {
     "title": "Serious Cat - 功德模式",
@@ -1612,17 +1612,17 @@
     "metaPath": "patches/serious-cat/music/anonymous_1780989237007_38.json"
   },
   {
-    "title": "Serious Cat - 专注模式",
+    "title": "shirly - 专注模式",
     "author": "anonymous",
-    "petId": "serious-cat",
+    "petId": "shirly",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/serious-cat/focus/anonymous_1780989237007_39.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/shirly/focus/anonymous_1780989237007_42.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/serious-cat/focus/anonymous_1780989237007_39.json"
+    "metaPath": "patches/shirly/focus/anonymous_1780989237007_42.json"
   },
   {
     "title": "shirly - 功德模式",
@@ -1651,17 +1651,17 @@
     "metaPath": "patches/shirly/music/anonymous_1780989237007_41.json"
   },
   {
-    "title": "shirly - 专注模式",
+    "title": "将军团子 - 专注模式",
     "author": "anonymous",
-    "petId": "shirly",
+    "petId": "shogun-dango",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/shirly/focus/anonymous_1780989237007_42.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/shogun-dango/focus/anonymous_1780989237007_45.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/shirly/focus/anonymous_1780989237007_42.json"
+    "metaPath": "patches/shogun-dango/focus/anonymous_1780989237007_45.json"
   },
   {
     "title": "将军团子 - 功德模式",
@@ -1690,17 +1690,17 @@
     "metaPath": "patches/shogun-dango/music/anonymous_1780989237007_44.json"
   },
   {
-    "title": "将军团子 - 专注模式",
+    "title": "StarJotaro - 专注模式",
     "author": "anonymous",
-    "petId": "shogun-dango",
+    "petId": "starjotaro",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/shogun-dango/focus/anonymous_1780989237007_45.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/starjotaro/focus/anonymous_1780989237007_48.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/shogun-dango/focus/anonymous_1780989237007_45.json"
+    "metaPath": "patches/starjotaro/focus/anonymous_1780989237007_48.json"
   },
   {
     "title": "StarJotaro - 功德模式",
@@ -1729,17 +1729,17 @@
     "metaPath": "patches/starjotaro/music/anonymous_1780989237007_47.json"
   },
   {
-    "title": "StarJotaro - 专注模式",
+    "title": "YiBu - 专注模式",
     "author": "anonymous",
-    "petId": "starjotaro",
+    "petId": "yi-bu",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/starjotaro/focus/anonymous_1780989237007_48.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yi-bu/focus/anonymous_1780989237007_01.webp",
     "createdTime": "2026-06-09T07:13:57.007Z",
-    "metaPath": "patches/starjotaro/focus/anonymous_1780989237007_48.json"
+    "metaPath": "patches/yi-bu/focus/anonymous_1780989237007_01.json"
   },
   {
     "title": "Luluka - 功德模式",
@@ -1768,6 +1768,19 @@
     "metaPath": "patches/luluka-moria/music/anonymous_1780987791946_02.json"
   },
   {
+    "title": "ルミナ v2.0 - 专注模式",
+    "author": "anonymous",
+    "petId": "lumina-v2",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/lumina-v2/focus/anonymous_1780987791946_05.webp",
+    "createdTime": "2026-06-09T06:49:51.946Z",
+    "metaPath": "patches/lumina-v2/focus/anonymous_1780987791946_05.json"
+  },
+  {
     "title": "ルミナ v2.0 - 功德模式",
     "author": "anonymous",
     "petId": "lumina-v2",
@@ -1794,17 +1807,17 @@
     "metaPath": "patches/lumina-v2/music/anonymous_1780987791946_04.json"
   },
   {
-    "title": "ルミナ v2.0 - 专注模式",
+    "title": "MiaoDex - 专注模式",
     "author": "anonymous",
-    "petId": "lumina-v2",
+    "petId": "miaodex",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/lumina-v2/focus/anonymous_1780987791946_05.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/miaodex/focus/anonymous_1780987791946_08.webp",
     "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/lumina-v2/focus/anonymous_1780987791946_05.json"
+    "metaPath": "patches/miaodex/focus/anonymous_1780987791946_08.json"
   },
   {
     "title": "MiaoDex - 功德模式",
@@ -1833,17 +1846,17 @@
     "metaPath": "patches/miaodex/music/anonymous_1780987791946_07.json"
   },
   {
-    "title": "MiaoDex - 专注模式",
+    "title": "Miku - 专注模式",
     "author": "anonymous",
-    "petId": "miaodex",
+    "petId": "miku",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/miaodex/focus/anonymous_1780987791946_08.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/miku/focus/anonymous_1780987791946_11.webp",
     "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/miaodex/focus/anonymous_1780987791946_08.json"
+    "metaPath": "patches/miku/focus/anonymous_1780987791946_11.json"
   },
   {
     "title": "Miku - 功德模式",
@@ -1872,17 +1885,17 @@
     "metaPath": "patches/miku/music/anonymous_1780987791946_10.json"
   },
   {
-    "title": "Miku - 专注模式",
+    "title": "摸鱼奶龙 - 专注模式",
     "author": "anonymous",
-    "petId": "miku",
+    "petId": "moyunailong",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/miku/focus/anonymous_1780987791946_11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/moyunailong/focus/anonymous_1780987791946_14.webp",
     "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/miku/focus/anonymous_1780987791946_11.json"
+    "metaPath": "patches/moyunailong/focus/anonymous_1780987791946_14.json"
   },
   {
     "title": "摸鱼奶龙 - 功德模式",
@@ -1911,17 +1924,17 @@
     "metaPath": "patches/moyunailong/music/anonymous_1780987791946_13.json"
   },
   {
-    "title": "摸鱼奶龙 - 专注模式",
+    "title": "Nailong - 专注模式",
     "author": "anonymous",
-    "petId": "moyunailong",
+    "petId": "nailong",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/moyunailong/focus/anonymous_1780987791946_14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nailong/focus/anonymous_1780987791946_17.webp",
     "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/moyunailong/focus/anonymous_1780987791946_14.json"
+    "metaPath": "patches/nailong/focus/anonymous_1780987791946_17.json"
   },
   {
     "title": "Nailong - 功德模式",
@@ -1950,17 +1963,17 @@
     "metaPath": "patches/nailong/music/anonymous_1780987791946_16.json"
   },
   {
-    "title": "Nailong - 专注模式",
+    "title": "NezukoCoder - 专注模式",
     "author": "anonymous",
-    "petId": "nailong",
+    "petId": "nezukocoder",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nailong/focus/anonymous_1780987791946_17.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nezukocoder/focus/anonymous_1780987791946_20.webp",
     "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/nailong/focus/anonymous_1780987791946_17.json"
+    "metaPath": "patches/nezukocoder/focus/anonymous_1780987791946_20.json"
   },
   {
     "title": "NezukoCoder - 功德模式",
@@ -1989,95 +2002,17 @@
     "metaPath": "patches/nezukocoder/music/anonymous_1780987791946_19.json"
   },
   {
-    "title": "NezukoCoder - 专注模式",
+    "title": "Kun Like - 专注模式",
     "author": "anonymous",
-    "petId": "nezukocoder",
+    "petId": "kun-like",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/nezukocoder/focus/anonymous_1780987791946_20.webp",
-    "createdTime": "2026-06-09T06:49:51.946Z",
-    "metaPath": "patches/nezukocoder/focus/anonymous_1780987791946_20.json"
-  },
-  {
-    "title": "kunkundancing - 功德模式",
-    "author": "anonymous",
-    "petId": "kunkundancing",
-    "actionType": "merit",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/merit/anonymous_1780987100166_01.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-like/focus/anonymous_1780987100166_09.webp",
     "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkundancing/merit/anonymous_1780987100166_01.json"
-  },
-  {
-    "title": "kunkundancing - 音乐律动",
-    "author": "anonymous",
-    "petId": "kunkundancing",
-    "actionType": "music",
-    "status": "published",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/music/anonymous_1780987100166_02.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkundancing/music/anonymous_1780987100166_02.json"
-  },
-  {
-    "title": "kunkundancing - 专注模式",
-    "author": "anonymous",
-    "petId": "kunkundancing",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/focus/anonymous_1780987100166_03.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkundancing/focus/anonymous_1780987100166_03.json"
-  },
-  {
-    "title": "KunKun Pixel - 功德模式",
-    "author": "anonymous",
-    "petId": "kunkun-pixel",
-    "actionType": "merit",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/merit/anonymous_1780987100166_04.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkun-pixel/merit/anonymous_1780987100166_04.json"
-  },
-  {
-    "title": "KunKun Pixel - 音乐律动",
-    "author": "anonymous",
-    "petId": "kunkun-pixel",
-    "actionType": "music",
-    "status": "published",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/music/anonymous_1780987100166_05.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkun-pixel/music/anonymous_1780987100166_05.json"
-  },
-  {
-    "title": "KunKun Pixel - 专注模式",
-    "author": "anonymous",
-    "petId": "kunkun-pixel",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/focus/anonymous_1780987100166_06.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunkun-pixel/focus/anonymous_1780987100166_06.json"
+    "metaPath": "patches/kun-like/focus/anonymous_1780987100166_09.json"
   },
   {
     "title": "Kun Like - 功德模式",
@@ -2106,17 +2041,95 @@
     "metaPath": "patches/kun-like/music/anonymous_1780987100166_08.json"
   },
   {
-    "title": "Kun Like - 专注模式",
+    "title": "KunKun Pixel - 专注模式",
     "author": "anonymous",
-    "petId": "kun-like",
+    "petId": "kunkun-pixel",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-like/focus/anonymous_1780987100166_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/focus/anonymous_1780987100166_06.webp",
     "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kun-like/focus/anonymous_1780987100166_09.json"
+    "metaPath": "patches/kunkun-pixel/focus/anonymous_1780987100166_06.json"
+  },
+  {
+    "title": "KunKun Pixel - 功德模式",
+    "author": "anonymous",
+    "petId": "kunkun-pixel",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/merit/anonymous_1780987100166_04.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunkun-pixel/merit/anonymous_1780987100166_04.json"
+  },
+  {
+    "title": "KunKun Pixel - 音乐律动",
+    "author": "anonymous",
+    "petId": "kunkun-pixel",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun-pixel/music/anonymous_1780987100166_05.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunkun-pixel/music/anonymous_1780987100166_05.json"
+  },
+  {
+    "title": "kunkundancing - 专注模式",
+    "author": "anonymous",
+    "petId": "kunkundancing",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/focus/anonymous_1780987100166_03.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunkundancing/focus/anonymous_1780987100166_03.json"
+  },
+  {
+    "title": "kunkundancing - 功德模式",
+    "author": "anonymous",
+    "petId": "kunkundancing",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/merit/anonymous_1780987100166_01.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunkundancing/merit/anonymous_1780987100166_01.json"
+  },
+  {
+    "title": "kunkundancing - 音乐律动",
+    "author": "anonymous",
+    "petId": "kunkundancing",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkundancing/music/anonymous_1780987100166_02.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunkundancing/music/anonymous_1780987100166_02.json"
+  },
+  {
+    "title": "KunPet - 专注模式",
+    "author": "anonymous",
+    "petId": "kunpet",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunpet/focus/anonymous_1780987100166_12.webp",
+    "createdTime": "2026-06-09T06:38:20.166Z",
+    "metaPath": "patches/kunpet/focus/anonymous_1780987100166_12.json"
   },
   {
     "title": "KunPet - 功德模式",
@@ -2145,17 +2158,17 @@
     "metaPath": "patches/kunpet/music/anonymous_1780987100166_11.json"
   },
   {
-    "title": "KunPet - 专注模式",
+    "title": "kurisu - 专注模式",
     "author": "anonymous",
-    "petId": "kunpet",
+    "petId": "kurisu",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunpet/focus/anonymous_1780987100166_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kurisu/focus/anonymous_1780987100166_15.webp",
     "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kunpet/focus/anonymous_1780987100166_12.json"
+    "metaPath": "patches/kurisu/focus/anonymous_1780987100166_15.json"
   },
   {
     "title": "kurisu - 功德模式",
@@ -2184,17 +2197,17 @@
     "metaPath": "patches/kurisu/music/anonymous_1780987100166_14.json"
   },
   {
-    "title": "kurisu - 专注模式",
+    "title": "Luffy - 专注模式",
     "author": "anonymous",
-    "petId": "kurisu",
+    "petId": "luffy",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kurisu/focus/anonymous_1780987100166_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/luffy/focus/anonymous_1780987100166_18.webp",
     "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/kurisu/focus/anonymous_1780987100166_15.json"
+    "metaPath": "patches/luffy/focus/anonymous_1780987100166_18.json"
   },
   {
     "title": "Luffy - 功德模式",
@@ -2223,17 +2236,17 @@
     "metaPath": "patches/luffy/music/anonymous_1780987100166_17.json"
   },
   {
-    "title": "Luffy - 专注模式",
+    "title": "Luffy Gear 5 - 专注模式",
     "author": "anonymous",
-    "petId": "luffy",
+    "petId": "luffy-gear-5",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/luffy/focus/anonymous_1780987100166_18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/luffy-gear-5/focus/anonymous_1780987100166_21.webp",
     "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/luffy/focus/anonymous_1780987100166_18.json"
+    "metaPath": "patches/luffy-gear-5/focus/anonymous_1780987100166_21.json"
   },
   {
     "title": "Luffy Gear 5 - 功德模式",
@@ -2262,19 +2275,6 @@
     "metaPath": "patches/luffy-gear-5/music/anonymous_1780987100166_20.json"
   },
   {
-    "title": "Luffy Gear 5 - 专注模式",
-    "author": "anonymous",
-    "petId": "luffy-gear-5",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/luffy-gear-5/focus/anonymous_1780987100166_21.webp",
-    "createdTime": "2026-06-09T06:38:20.166Z",
-    "metaPath": "patches/luffy-gear-5/focus/anonymous_1780987100166_21.json"
-  },
-  {
     "title": "Kid Goku Classic Actions - 功德模式",
     "author": "anonymous",
     "petId": "kid-goku-classic-actions",
@@ -2286,6 +2286,19 @@
     "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kid-goku-classic-actions/merit/anonymous_1780986601661_01.webp",
     "createdTime": "2026-06-09T06:30:01.661Z",
     "metaPath": "patches/kid-goku-classic-actions/merit/anonymous_1780986601661_01.json"
+  },
+  {
+    "title": "Kimlet Hover Clap - 专注模式",
+    "author": "anonymous",
+    "petId": "kimlet-hover-clap",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kimlet-hover-clap/focus/anonymous_1780986601661_04.webp",
+    "createdTime": "2026-06-09T06:30:01.661Z",
+    "metaPath": "patches/kimlet-hover-clap/focus/anonymous_1780986601661_04.json"
   },
   {
     "title": "Kimlet Hover Clap - 功德模式",
@@ -2314,17 +2327,17 @@
     "metaPath": "patches/kimlet-hover-clap/music/anonymous_1780986601661_03.json"
   },
   {
-    "title": "Kimlet Hover Clap - 专注模式",
+    "title": "Konata - 专注模式",
     "author": "anonymous",
-    "petId": "kimlet-hover-clap",
+    "petId": "konata",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kimlet-hover-clap/focus/anonymous_1780986601661_04.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/konata/focus/anonymous_1780986601661_07.webp",
     "createdTime": "2026-06-09T06:30:01.661Z",
-    "metaPath": "patches/kimlet-hover-clap/focus/anonymous_1780986601661_04.json"
+    "metaPath": "patches/konata/focus/anonymous_1780986601661_07.json"
   },
   {
     "title": "Konata - 功德模式",
@@ -2353,17 +2366,17 @@
     "metaPath": "patches/konata/music/anonymous_1780986601661_06.json"
   },
   {
-    "title": "Konata - 专注模式",
+    "title": "kun - 专注模式",
     "author": "anonymous",
-    "petId": "konata",
+    "petId": "kun",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/konata/focus/anonymous_1780986601661_07.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun/focus/anonymous_1780986601661_10.webp",
     "createdTime": "2026-06-09T06:30:01.661Z",
-    "metaPath": "patches/konata/focus/anonymous_1780986601661_07.json"
+    "metaPath": "patches/kun/focus/anonymous_1780986601661_10.json"
   },
   {
     "title": "kun - 功德模式",
@@ -2392,17 +2405,17 @@
     "metaPath": "patches/kun/music/anonymous_1780986601661_09.json"
   },
   {
-    "title": "kun - 专注模式",
+    "title": "Kun Chick - 专注模式",
     "author": "anonymous",
-    "petId": "kun",
+    "petId": "kun-chick",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun/focus/anonymous_1780986601661_10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-chick/focus/anonymous_1780986601661_13.webp",
     "createdTime": "2026-06-09T06:30:01.661Z",
-    "metaPath": "patches/kun/focus/anonymous_1780986601661_10.json"
+    "metaPath": "patches/kun-chick/focus/anonymous_1780986601661_13.json"
   },
   {
     "title": "Kun Chick - 功德模式",
@@ -2431,17 +2444,17 @@
     "metaPath": "patches/kun-chick/music/anonymous_1780986601661_12.json"
   },
   {
-    "title": "Kun Chick - 专注模式",
+    "title": "kunkun - 专注模式",
     "author": "anonymous",
-    "petId": "kun-chick",
+    "petId": "kunkun",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kun-chick/focus/anonymous_1780986601661_13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun/focus/anonymous_1780986601661_16.webp",
     "createdTime": "2026-06-09T06:30:01.661Z",
-    "metaPath": "patches/kun-chick/focus/anonymous_1780986601661_13.json"
+    "metaPath": "patches/kunkun/focus/anonymous_1780986601661_16.json"
   },
   {
     "title": "kunkun - 功德模式",
@@ -2470,17 +2483,17 @@
     "metaPath": "patches/kunkun/music/anonymous_1780986601661_15.json"
   },
   {
-    "title": "kunkun - 专注模式",
+    "title": "胡桃 - 专注模式",
     "author": "anonymous",
-    "petId": "kunkun",
+    "petId": "hutao",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kunkun/focus/anonymous_1780986601661_16.webp",
-    "createdTime": "2026-06-09T06:30:01.661Z",
-    "metaPath": "patches/kunkun/focus/anonymous_1780986601661_16.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/hutao/focus/anonymous_1780985133419_03.webp",
+    "createdTime": "2026-06-09T06:05:33.419Z",
+    "metaPath": "patches/hutao/focus/anonymous_1780985133419_03.json"
   },
   {
     "title": "胡桃 - 功德模式",
@@ -2509,17 +2522,17 @@
     "metaPath": "patches/hutao/music/anonymous_1780985133419_02.json"
   },
   {
-    "title": "胡桃 - 专注模式",
+    "title": "IKUN - 专注模式",
     "author": "anonymous",
-    "petId": "hutao",
+    "petId": "ikun",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/hutao/focus/anonymous_1780985133419_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun/focus/anonymous_1780985133419_06.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/hutao/focus/anonymous_1780985133419_03.json"
+    "metaPath": "patches/ikun/focus/anonymous_1780985133419_06.json"
   },
   {
     "title": "IKUN - 功德模式",
@@ -2548,56 +2561,17 @@
     "metaPath": "patches/ikun/music/anonymous_1780985133419_05.json"
   },
   {
-    "title": "IKUN - 专注模式",
+    "title": "IKUN Hoops - 专注模式",
     "author": "anonymous",
-    "petId": "ikun",
+    "petId": "ikun-hoops",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun/focus/anonymous_1780985133419_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-hoops/focus/anonymous_1780985133419_12.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikun/focus/anonymous_1780985133419_06.json"
-  },
-  {
-    "title": "ikunchick - 功德模式",
-    "author": "anonymous",
-    "petId": "ikunchick",
-    "actionType": "merit",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/merit/anonymous_1780985133419_07.webp",
-    "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikunchick/merit/anonymous_1780985133419_07.json"
-  },
-  {
-    "title": "ikunchick - 音乐律动",
-    "author": "anonymous",
-    "petId": "ikunchick",
-    "actionType": "music",
-    "status": "published",
-    "framesCount": 8,
-    "frameDuration": 140,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/music/anonymous_1780985133419_08.webp",
-    "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikunchick/music/anonymous_1780985133419_08.json"
-  },
-  {
-    "title": "ikunchick - 专注模式",
-    "author": "anonymous",
-    "petId": "ikunchick",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/focus/anonymous_1780985133419_09.webp",
-    "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikunchick/focus/anonymous_1780985133419_09.json"
+    "metaPath": "patches/ikun-hoops/focus/anonymous_1780985133419_12.json"
   },
   {
     "title": "IKUN Hoops - 功德模式",
@@ -2626,17 +2600,17 @@
     "metaPath": "patches/ikun-hoops/music/anonymous_1780985133419_11.json"
   },
   {
-    "title": "IKUN Hoops - 专注模式",
+    "title": "鸡哥ikun - 专注模式",
     "author": "anonymous",
-    "petId": "ikun-hoops",
+    "petId": "ikun-pet",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-hoops/focus/anonymous_1780985133419_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-pet/focus/anonymous_1780985133419_15.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikun-hoops/focus/anonymous_1780985133419_12.json"
+    "metaPath": "patches/ikun-pet/focus/anonymous_1780985133419_15.json"
   },
   {
     "title": "鸡哥ikun - 功德模式",
@@ -2665,17 +2639,56 @@
     "metaPath": "patches/ikun-pet/music/anonymous_1780985133419_14.json"
   },
   {
-    "title": "鸡哥ikun - 专注模式",
+    "title": "ikunchick - 专注模式",
     "author": "anonymous",
-    "petId": "ikun-pet",
+    "petId": "ikunchick",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikun-pet/focus/anonymous_1780985133419_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/focus/anonymous_1780985133419_09.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/ikun-pet/focus/anonymous_1780985133419_15.json"
+    "metaPath": "patches/ikunchick/focus/anonymous_1780985133419_09.json"
+  },
+  {
+    "title": "ikunchick - 功德模式",
+    "author": "anonymous",
+    "petId": "ikunchick",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/merit/anonymous_1780985133419_07.webp",
+    "createdTime": "2026-06-09T06:05:33.419Z",
+    "metaPath": "patches/ikunchick/merit/anonymous_1780985133419_07.json"
+  },
+  {
+    "title": "ikunchick - 音乐律动",
+    "author": "anonymous",
+    "petId": "ikunchick",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ikunchick/music/anonymous_1780985133419_08.webp",
+    "createdTime": "2026-06-09T06:05:33.419Z",
+    "metaPath": "patches/ikunchick/music/anonymous_1780985133419_08.json"
+  },
+  {
+    "title": "杰伦 - 专注模式",
+    "author": "anonymous",
+    "petId": "jielun",
+    "actionType": "focus",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 300,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/jielun/focus/anonymous_1780985133419_18.webp",
+    "createdTime": "2026-06-09T06:05:33.419Z",
+    "metaPath": "patches/jielun/focus/anonymous_1780985133419_18.json"
   },
   {
     "title": "杰伦 - 功德模式",
@@ -2704,17 +2717,17 @@
     "metaPath": "patches/jielun/music/anonymous_1780985133419_17.json"
   },
   {
-    "title": "杰伦 - 专注模式",
+    "title": "吉伊 - 专注模式",
     "author": "anonymous",
-    "petId": "jielun",
+    "petId": "jiyi",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/jielun/focus/anonymous_1780985133419_18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/jiyi/focus/anonymous_1780985133419_21.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/jielun/focus/anonymous_1780985133419_18.json"
+    "metaPath": "patches/jiyi/focus/anonymous_1780985133419_21.json"
   },
   {
     "title": "吉伊 - 功德模式",
@@ -2743,17 +2756,17 @@
     "metaPath": "patches/jiyi/music/anonymous_1780985133419_20.json"
   },
   {
-    "title": "吉伊 - 专注模式",
+    "title": "Kaguya - 专注模式",
     "author": "anonymous",
-    "petId": "jiyi",
+    "petId": "kaguya",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/jiyi/focus/anonymous_1780985133419_21.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kaguya/focus/anonymous_1780985133419_24.webp",
     "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/jiyi/focus/anonymous_1780985133419_21.json"
+    "metaPath": "patches/kaguya/focus/anonymous_1780985133419_24.json"
   },
   {
     "title": "Kaguya - 功德模式",
@@ -2782,17 +2795,17 @@
     "metaPath": "patches/kaguya/music/anonymous_1780985133419_23.json"
   },
   {
-    "title": "Kaguya - 专注模式",
+    "title": "furina芙宁娜 - 专注模式",
     "author": "anonymous",
-    "petId": "kaguya",
+    "petId": "furina",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/kaguya/focus/anonymous_1780985133419_24.webp",
-    "createdTime": "2026-06-09T06:05:33.419Z",
-    "metaPath": "patches/kaguya/focus/anonymous_1780985133419_24.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/furina/focus/anonymous_1780982639515_03.webp",
+    "createdTime": "2026-06-09T05:23:59.515Z",
+    "metaPath": "patches/furina/focus/anonymous_1780982639515_03.json"
   },
   {
     "title": "furina芙宁娜 - 功德模式",
@@ -2821,17 +2834,17 @@
     "metaPath": "patches/furina/music/anonymous_1780982639515_02.json"
   },
   {
-    "title": "furina芙宁娜 - 专注模式",
+    "title": "DaoDun - 专注模式",
     "author": "anonymous",
-    "petId": "furina",
+    "petId": "github-com-vinjn-daodun",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/furina/focus/anonymous_1780982639515_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/github-com-vinjn-daodun/focus/anonymous_1780982639515_06.webp",
     "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/furina/focus/anonymous_1780982639515_03.json"
+    "metaPath": "patches/github-com-vinjn-daodun/focus/anonymous_1780982639515_06.json"
   },
   {
     "title": "DaoDun - 功德模式",
@@ -2860,17 +2873,17 @@
     "metaPath": "patches/github-com-vinjn-daodun/music/anonymous_1780982639515_05.json"
   },
   {
-    "title": "DaoDun - 专注模式",
+    "title": "咕嘎咕嘎 - 专注模式",
     "author": "anonymous",
-    "petId": "github-com-vinjn-daodun",
+    "petId": "guga-guga",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/github-com-vinjn-daodun/focus/anonymous_1780982639515_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/guga-guga/focus/anonymous_1780982639515_09.webp",
     "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/github-com-vinjn-daodun/focus/anonymous_1780982639515_06.json"
+    "metaPath": "patches/guga-guga/focus/anonymous_1780982639515_09.json"
   },
   {
     "title": "咕嘎咕嘎 - 功德模式",
@@ -2899,17 +2912,17 @@
     "metaPath": "patches/guga-guga/music/anonymous_1780982639515_08.json"
   },
   {
-    "title": "咕嘎咕嘎 - 专注模式",
+    "title": "Gugugaga - 专注模式",
     "author": "anonymous",
-    "petId": "guga-guga",
+    "petId": "gugugaga",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/guga-guga/focus/anonymous_1780982639515_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/gugugaga/focus/anonymous_1780982639515_12.webp",
     "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/guga-guga/focus/anonymous_1780982639515_09.json"
+    "metaPath": "patches/gugugaga/focus/anonymous_1780982639515_12.json"
   },
   {
     "title": "Gugugaga - 功德模式",
@@ -2938,17 +2951,17 @@
     "metaPath": "patches/gugugaga/music/anonymous_1780982639515_11.json"
   },
   {
-    "title": "Gugugaga - 专注模式",
+    "title": "helpfulYIER - 专注模式",
     "author": "anonymous",
-    "petId": "gugugaga",
+    "petId": "helpfulyier",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/gugugaga/focus/anonymous_1780982639515_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/helpfulyier/focus/anonymous_1780982639515_15.webp",
     "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/gugugaga/focus/anonymous_1780982639515_12.json"
+    "metaPath": "patches/helpfulyier/focus/anonymous_1780982639515_15.json"
   },
   {
     "title": "helpfulYIER - 功德模式",
@@ -2977,17 +2990,17 @@
     "metaPath": "patches/helpfulyier/music/anonymous_1780982639515_14.json"
   },
   {
-    "title": "helpfulYIER - 专注模式",
+    "title": "Hornet - 专注模式",
     "author": "anonymous",
-    "petId": "helpfulyier",
+    "petId": "hornet-silksong",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/helpfulyier/focus/anonymous_1780982639515_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/hornet-silksong/focus/anonymous_1780982639515_18.webp",
     "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/helpfulyier/focus/anonymous_1780982639515_15.json"
+    "metaPath": "patches/hornet-silksong/focus/anonymous_1780982639515_18.json"
   },
   {
     "title": "Hornet - 功德模式",
@@ -3016,17 +3029,17 @@
     "metaPath": "patches/hornet-silksong/music/anonymous_1780982639515_17.json"
   },
   {
-    "title": "Hornet - 专注模式",
+    "title": "Diana - 专注模式",
     "author": "anonymous",
-    "petId": "hornet-silksong",
+    "petId": "diana",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/hornet-silksong/focus/anonymous_1780982639515_18.webp",
-    "createdTime": "2026-06-09T05:23:59.515Z",
-    "metaPath": "patches/hornet-silksong/focus/anonymous_1780982639515_18.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/diana/focus/anonymous_1780982105393_03.webp",
+    "createdTime": "2026-06-09T05:15:05.393Z",
+    "metaPath": "patches/diana/focus/anonymous_1780982105393_03.json"
   },
   {
     "title": "Diana - 功德模式",
@@ -3055,17 +3068,17 @@
     "metaPath": "patches/diana/music/anonymous_1780982105393_02.json"
   },
   {
-    "title": "Diana - 专注模式",
+    "title": "Ella Wave - 专注模式",
     "author": "anonymous",
-    "petId": "diana",
+    "petId": "ella-wave",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/diana/focus/anonymous_1780982105393_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ella-wave/focus/anonymous_1780982105393_09.webp",
     "createdTime": "2026-06-09T05:15:05.393Z",
-    "metaPath": "patches/diana/focus/anonymous_1780982105393_03.json"
+    "metaPath": "patches/ella-wave/focus/anonymous_1780982105393_09.json"
   },
   {
     "title": "Ella Wave - 功德模式",
@@ -3094,17 +3107,17 @@
     "metaPath": "patches/ella-wave/music/anonymous_1780982105393_08.json"
   },
   {
-    "title": "Ella Wave - 专注模式",
+    "title": "Emilia - 专注模式",
     "author": "anonymous",
-    "petId": "ella-wave",
+    "petId": "emilia",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/ella-wave/focus/anonymous_1780982105393_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/emilia/focus/anonymous_1780982105393_12.webp",
     "createdTime": "2026-06-09T05:15:05.393Z",
-    "metaPath": "patches/ella-wave/focus/anonymous_1780982105393_09.json"
+    "metaPath": "patches/emilia/focus/anonymous_1780982105393_12.json"
   },
   {
     "title": "Emilia - 功德模式",
@@ -3133,17 +3146,17 @@
     "metaPath": "patches/emilia/music/anonymous_1780982105393_11.json"
   },
   {
-    "title": "Emilia - 专注模式",
+    "title": "菲比 - 专注模式",
     "author": "anonymous",
-    "petId": "emilia",
+    "petId": "feibi",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/emilia/focus/anonymous_1780982105393_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/feibi/focus/anonymous_1780982105393_15.webp",
     "createdTime": "2026-06-09T05:15:05.393Z",
-    "metaPath": "patches/emilia/focus/anonymous_1780982105393_12.json"
+    "metaPath": "patches/feibi/focus/anonymous_1780982105393_15.json"
   },
   {
     "title": "菲比 - 功德模式",
@@ -3172,17 +3185,17 @@
     "metaPath": "patches/feibi/music/anonymous_1780982105393_14.json"
   },
   {
-    "title": "菲比 - 专注模式",
+    "title": "Firefly - 专注模式",
     "author": "anonymous",
-    "petId": "feibi",
+    "petId": "firefly",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/feibi/focus/anonymous_1780982105393_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/firefly/focus/anonymous_1780982105393_18.webp",
     "createdTime": "2026-06-09T05:15:05.393Z",
-    "metaPath": "patches/feibi/focus/anonymous_1780982105393_15.json"
+    "metaPath": "patches/firefly/focus/anonymous_1780982105393_18.json"
   },
   {
     "title": "Firefly - 功德模式",
@@ -3211,17 +3224,17 @@
     "metaPath": "patches/firefly/music/anonymous_1780982105393_17.json"
   },
   {
-    "title": "Firefly - 专注模式",
+    "title": "Clawd - 专注模式",
     "author": "anonymous",
-    "petId": "firefly",
+    "petId": "clawd",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/firefly/focus/anonymous_1780982105393_18.webp",
-    "createdTime": "2026-06-09T05:15:05.393Z",
-    "metaPath": "patches/firefly/focus/anonymous_1780982105393_18.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/clawd/focus/anonymous_1780980355877_03.webp",
+    "createdTime": "2026-06-09T04:45:55.877Z",
+    "metaPath": "patches/clawd/focus/anonymous_1780980355877_03.json"
   },
   {
     "title": "Clawd - 功德模式",
@@ -3250,17 +3263,17 @@
     "metaPath": "patches/clawd/music/anonymous_1780980355877_02.json"
   },
   {
-    "title": "Clawd - 专注模式",
+    "title": "Codie - 专注模式",
     "author": "anonymous",
-    "petId": "clawd",
+    "petId": "codie",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/clawd/focus/anonymous_1780980355877_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/codie/focus/anonymous_1780980355877_06.webp",
     "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/clawd/focus/anonymous_1780980355877_03.json"
+    "metaPath": "patches/codie/focus/anonymous_1780980355877_06.json"
   },
   {
     "title": "Codie - 功德模式",
@@ -3289,17 +3302,17 @@
     "metaPath": "patches/codie/music/anonymous_1780980355877_05.json"
   },
   {
-    "title": "Codie - 专注模式",
+    "title": "Conan Edogawa - 专注模式",
     "author": "anonymous",
-    "petId": "codie",
+    "petId": "conan",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/codie/focus/anonymous_1780980355877_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/conan/focus/anonymous_1780980355877_09.webp",
     "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/codie/focus/anonymous_1780980355877_06.json"
+    "metaPath": "patches/conan/focus/anonymous_1780980355877_09.json"
   },
   {
     "title": "Conan Edogawa - 功德模式",
@@ -3328,17 +3341,17 @@
     "metaPath": "patches/conan/music/anonymous_1780980355877_08.json"
   },
   {
-    "title": "Conan Edogawa - 专注模式",
+    "title": "daodun - 专注模式",
     "author": "anonymous",
-    "petId": "conan",
+    "petId": "daodun",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/conan/focus/anonymous_1780980355877_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/daodun/focus/anonymous_1780980355877_12.webp",
     "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/conan/focus/anonymous_1780980355877_09.json"
+    "metaPath": "patches/daodun/focus/anonymous_1780980355877_12.json"
   },
   {
     "title": "daodun - 功德模式",
@@ -3367,17 +3380,17 @@
     "metaPath": "patches/daodun/music/anonymous_1780980355877_11.json"
   },
   {
-    "title": "daodun - 专注模式",
+    "title": "刀盾狗 - 专注模式",
     "author": "anonymous",
-    "petId": "daodun",
+    "petId": "daodun-dog",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/daodun/focus/anonymous_1780980355877_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/daodun-dog/focus/anonymous_1780980355877_15.webp",
     "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/daodun/focus/anonymous_1780980355877_12.json"
+    "metaPath": "patches/daodun-dog/focus/anonymous_1780980355877_15.json"
   },
   {
     "title": "刀盾狗 - 功德模式",
@@ -3406,17 +3419,17 @@
     "metaPath": "patches/daodun-dog/music/anonymous_1780980355877_14.json"
   },
   {
-    "title": "刀盾狗 - 专注模式",
+    "title": "Deepfin - 专注模式",
     "author": "anonymous",
-    "petId": "daodun-dog",
+    "petId": "deepfin",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/daodun-dog/focus/anonymous_1780980355877_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/deepfin/focus/anonymous_1780980355877_18.webp",
     "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/daodun-dog/focus/anonymous_1780980355877_15.json"
+    "metaPath": "patches/deepfin/focus/anonymous_1780980355877_18.json"
   },
   {
     "title": "Deepfin - 功德模式",
@@ -3445,17 +3458,17 @@
     "metaPath": "patches/deepfin/music/anonymous_1780980355877_17.json"
   },
   {
-    "title": "Deepfin - 专注模式",
+    "title": "Capoo - 专注模式",
     "author": "anonymous",
-    "petId": "deepfin",
+    "petId": "capoo",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/deepfin/focus/anonymous_1780980355877_18.webp",
-    "createdTime": "2026-06-09T04:45:55.877Z",
-    "metaPath": "patches/deepfin/focus/anonymous_1780980355877_18.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capoo/focus/anonymous_1780979950108_03.webp",
+    "createdTime": "2026-06-09T04:39:10.108Z",
+    "metaPath": "patches/capoo/focus/anonymous_1780979950108_03.json"
   },
   {
     "title": "Capoo - 功德模式",
@@ -3484,17 +3497,17 @@
     "metaPath": "patches/capoo/music/anonymous_1780979950108_02.json"
   },
   {
-    "title": "Capoo - 专注模式",
+    "title": "Capy - 专注模式",
     "author": "anonymous",
-    "petId": "capoo",
+    "petId": "capy-2",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capoo/focus/anonymous_1780979950108_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capy-2/focus/anonymous_1780979950108_06.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/capoo/focus/anonymous_1780979950108_03.json"
+    "metaPath": "patches/capy-2/focus/anonymous_1780979950108_06.json"
   },
   {
     "title": "Capy - 功德模式",
@@ -3523,17 +3536,17 @@
     "metaPath": "patches/capy-2/music/anonymous_1780979950108_05.json"
   },
   {
-    "title": "Capy - 专注模式",
+    "title": "CapybaraLuLu - 专注模式",
     "author": "anonymous",
-    "petId": "capy-2",
+    "petId": "capybaralulu",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capy-2/focus/anonymous_1780979950108_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capybaralulu/focus/anonymous_1780979950108_09.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/capy-2/focus/anonymous_1780979950108_06.json"
+    "metaPath": "patches/capybaralulu/focus/anonymous_1780979950108_09.json"
   },
   {
     "title": "CapybaraLuLu - 功德模式",
@@ -3562,17 +3575,17 @@
     "metaPath": "patches/capybaralulu/music/anonymous_1780979950108_08.json"
   },
   {
-    "title": "CapybaraLuLu - 专注模式",
+    "title": "Chiang Kai-shek - 专注模式",
     "author": "anonymous",
-    "petId": "capybaralulu",
+    "petId": "chiang-kai-shek",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/capybaralulu/focus/anonymous_1780979950108_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/chiang-kai-shek/focus/anonymous_1780979950108_12.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/capybaralulu/focus/anonymous_1780979950108_09.json"
+    "metaPath": "patches/chiang-kai-shek/focus/anonymous_1780979950108_12.json"
   },
   {
     "title": "Chiang Kai-shek - 功德模式",
@@ -3601,17 +3614,17 @@
     "metaPath": "patches/chiang-kai-shek/music/anonymous_1780979950108_11.json"
   },
   {
-    "title": "Chiang Kai-shek - 专注模式",
+    "title": "Chispa - 专注模式",
     "author": "anonymous",
-    "petId": "chiang-kai-shek",
+    "petId": "chispa",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/chiang-kai-shek/focus/anonymous_1780979950108_12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/chispa/focus/anonymous_1780979950108_15.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/chiang-kai-shek/focus/anonymous_1780979950108_12.json"
+    "metaPath": "patches/chispa/focus/anonymous_1780979950108_15.json"
   },
   {
     "title": "Chispa - 功德模式",
@@ -3640,17 +3653,17 @@
     "metaPath": "patches/chispa/music/anonymous_1780979950108_14.json"
   },
   {
-    "title": "Chispa - 专注模式",
+    "title": "Cinnamoroll - 专注模式",
     "author": "anonymous",
-    "petId": "chispa",
+    "petId": "cinnamoroll",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/chispa/focus/anonymous_1780979950108_15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/cinnamoroll/focus/anonymous_1780979950108_18.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/chispa/focus/anonymous_1780979950108_15.json"
+    "metaPath": "patches/cinnamoroll/focus/anonymous_1780979950108_18.json"
   },
   {
     "title": "Cinnamoroll - 功德模式",
@@ -3679,17 +3692,17 @@
     "metaPath": "patches/cinnamoroll/music/anonymous_1780979950108_17.json"
   },
   {
-    "title": "Cinnamoroll - 专注模式",
+    "title": "Claude Crab - 专注模式",
     "author": "anonymous",
-    "petId": "cinnamoroll",
+    "petId": "claude-crab",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/cinnamoroll/focus/anonymous_1780979950108_18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/claude-crab/focus/anonymous_1780979950108_21.webp",
     "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/cinnamoroll/focus/anonymous_1780979950108_18.json"
+    "metaPath": "patches/claude-crab/focus/anonymous_1780979950108_21.json"
   },
   {
     "title": "Claude Crab - 功德模式",
@@ -3718,17 +3731,17 @@
     "metaPath": "patches/claude-crab/music/anonymous_1780979950108_20.json"
   },
   {
-    "title": "Claude Crab - 专注模式",
+    "title": "Anya - 专注模式",
     "author": "anonymous",
-    "petId": "claude-crab",
+    "petId": "anya",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/claude-crab/focus/anonymous_1780979950108_21.webp",
-    "createdTime": "2026-06-09T04:39:10.108Z",
-    "metaPath": "patches/claude-crab/focus/anonymous_1780979950108_21.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/anya/focus/anonymous_1780979617413_03.webp",
+    "createdTime": "2026-06-09T04:33:37.413Z",
+    "metaPath": "patches/anya/focus/anonymous_1780979617413_03.json"
   },
   {
     "title": "Anya - 功德模式",
@@ -3757,17 +3770,17 @@
     "metaPath": "patches/anya/music/anonymous_1780979617413_02.json"
   },
   {
-    "title": "Anya - 专注模式",
+    "title": "BananaCat - 专注模式",
     "author": "anonymous",
-    "petId": "anya",
+    "petId": "bananacat",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/anya/focus/anonymous_1780979617413_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/bananacat/focus/anonymous_1780979617413_06.webp",
     "createdTime": "2026-06-09T04:33:37.413Z",
-    "metaPath": "patches/anya/focus/anonymous_1780979617413_03.json"
+    "metaPath": "patches/bananacat/focus/anonymous_1780979617413_06.json"
   },
   {
     "title": "BananaCat - 功德模式",
@@ -3796,17 +3809,17 @@
     "metaPath": "patches/bananacat/music/anonymous_1780979617413_05.json"
   },
   {
-    "title": "BananaCat - 专注模式",
+    "title": "篮球小鸡 - 专注模式",
     "author": "anonymous",
-    "petId": "bananacat",
+    "petId": "basketball-chick",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/bananacat/focus/anonymous_1780979617413_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/focus/anonymous_1780979617413_09.webp",
     "createdTime": "2026-06-09T04:33:37.413Z",
-    "metaPath": "patches/bananacat/focus/anonymous_1780979617413_06.json"
+    "metaPath": "patches/basketball-chick/focus/anonymous_1780979617413_09.json"
   },
   {
     "title": "篮球小鸡 - 功德模式",
@@ -3835,17 +3848,17 @@
     "metaPath": "patches/basketball-chick/music/anonymous_1780979617413_08.json"
   },
   {
-    "title": "篮球小鸡 - 专注模式",
+    "title": "486 - 专注模式",
     "author": "anonymous",
-    "petId": "basketball-chick",
+    "petId": "486",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/basketball-chick/focus/anonymous_1780979617413_09.webp",
-    "createdTime": "2026-06-09T04:33:37.413Z",
-    "metaPath": "patches/basketball-chick/focus/anonymous_1780979617413_09.json"
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/486/focus/anonymous_1780978970653_03.webp",
+    "createdTime": "2026-06-09T04:22:50.653Z",
+    "metaPath": "patches/486/focus/anonymous_1780978970653_03.json"
   },
   {
     "title": "486 - 功德模式",
@@ -3874,17 +3887,17 @@
     "metaPath": "patches/486/music/anonymous_1780978970653_02.json"
   },
   {
-    "title": "486 - 专注模式",
+    "title": "Aemeath - 专注模式",
     "author": "anonymous",
-    "petId": "486",
+    "petId": "aemeath",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/486/focus/anonymous_1780978970653_03.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/aemeath/focus/anonymous_1780978970653_06.webp",
     "createdTime": "2026-06-09T04:22:50.653Z",
-    "metaPath": "patches/486/focus/anonymous_1780978970653_03.json"
+    "metaPath": "patches/aemeath/focus/anonymous_1780978970653_06.json"
   },
   {
     "title": "Aemeath - 功德模式",
@@ -3913,17 +3926,17 @@
     "metaPath": "patches/aemeath/music/anonymous_1780978970653_05.json"
   },
   {
-    "title": "Aemeath - 专注模式",
+    "title": "Aimisi - 专注模式",
     "author": "anonymous",
-    "petId": "aemeath",
+    "petId": "aimisi",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/aemeath/focus/anonymous_1780978970653_06.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/aimisi/focus/anonymous_1780978970653_09.webp",
     "createdTime": "2026-06-09T04:22:50.653Z",
-    "metaPath": "patches/aemeath/focus/anonymous_1780978970653_06.json"
+    "metaPath": "patches/aimisi/focus/anonymous_1780978970653_09.json"
   },
   {
     "title": "Aimisi - 功德模式",
@@ -3952,17 +3965,17 @@
     "metaPath": "patches/aimisi/music/anonymous_1780978970653_08.json"
   },
   {
-    "title": "Aimisi - 专注模式",
+    "title": "雅儿贝德 - 专注模式",
     "author": "anonymous",
-    "petId": "aimisi",
+    "petId": "albedo-real-comic",
     "actionType": "focus",
     "status": "published",
     "framesCount": 4,
     "frameDuration": 300,
     "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/aimisi/focus/anonymous_1780978970653_09.webp",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/albedo-real-comic/focus/anonymous_1780978970653_12.webp",
     "createdTime": "2026-06-09T04:22:50.653Z",
-    "metaPath": "patches/aimisi/focus/anonymous_1780978970653_09.json"
+    "metaPath": "patches/albedo-real-comic/focus/anonymous_1780978970653_12.json"
   },
   {
     "title": "雅儿贝德 - 功德模式",
@@ -3989,19 +4002,6 @@
     "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/albedo-real-comic/music/anonymous_1780978970653_11.webp",
     "createdTime": "2026-06-09T04:22:50.653Z",
     "metaPath": "patches/albedo-real-comic/music/anonymous_1780978970653_11.json"
-  },
-  {
-    "title": "雅儿贝德 - 专注模式",
-    "author": "anonymous",
-    "petId": "albedo-real-comic",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/albedo-real-comic/focus/anonymous_1780978970653_12.webp",
-    "createdTime": "2026-06-09T04:22:50.653Z",
-    "metaPath": "patches/albedo-real-comic/focus/anonymous_1780978970653_12.json"
   },
   {
     "title": "纳西妲 - 专注模式",
