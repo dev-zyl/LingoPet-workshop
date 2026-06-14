@@ -1,0 +1,13 @@
+{
+  "title": "月薪喵 - 音乐律动",
+  "author": "LingoPet",
+  "petId": "yuexinmiao",
+  "actionType": "music",
+  "status": "published",
+  "framesCount": 5,
+  "frameDuration": 140,
+  "promptUsed": "",
+  "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yuexinmiao/music/LingoPet_1781451253427_01.webp",
+  "createdTime": "2026-06-14T15:34:13.427Z",
+  "metaPath": "patches/yuexinmiao/music/LingoPet_1781451253427_01.json"
+}
