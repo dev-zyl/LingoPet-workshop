@@ -1,5 +1,18 @@
 [
   {
+    "title": "Monthly salary cat（月薪猫） - 音乐律动",
+    "author": "LingoPet",
+    "petId": "monthly-salary-cat",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 5,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/monthly-salary-cat/music/LingoPet_1781442751188_01.webp",
+    "createdTime": "2026-06-14T13:12:31.188Z",
+    "metaPath": "patches/monthly-salary-cat/music/LingoPet_1781442751188_01.json"
+  },
+  {
     "title": "Monthly salary cat（月薪猫） - 功德模式",
     "author": "LingoPet",
     "petId": "monthly-salary-cat",
