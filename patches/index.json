@@ -39,19 +39,6 @@
     "metaPath": "patches/yuexinmiao/music/LingoPet_1781451253427_01.json"
   },
   {
-    "title": "月薪喵 - 专注模式",
-    "author": "LingoPet",
-    "petId": "yuexinmiao",
-    "actionType": "focus",
-    "status": "published",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/yuexinmiao/focus/LingoPet_1781451241439_01.webp",
-    "createdTime": "2026-06-14T15:34:01.439Z",
-    "metaPath": "patches/yuexinmiao/focus/LingoPet_1781451241439_01.json"
-  },
-  {
     "title": "Monthly salary cat（月薪猫） - 音乐律动",
     "author": "LingoPet",
     "petId": "monthly-salary-cat",
