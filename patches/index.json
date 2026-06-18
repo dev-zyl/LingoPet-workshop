@@ -4235,18 +4235,6 @@
     "metaPath": "patches/bocchi/focus/admin_1780797266311.json"
   },
   {
-    "title": "杰伦 - 功德模式",
-    "author": "admin",
-    "petId": "jielun",
-    "actionType": "merit",
-    "framesCount": 4,
-    "frameDuration": 150,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/jielun/merit/admin_1780795867526.webp",
-    "createdTime": "2026-06-07T01:31:07.526Z",
-    "metaPath": "patches/jielun/merit/admin_1780795867526.json"
-  },
-  {
     "title": "486 - 功德模式",
     "author": "神秘宠物训练师",
     "petId": "486",
