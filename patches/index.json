@@ -4259,18 +4259,6 @@
     "metaPath": "patches/jielun/music/admin_1780795859334.json"
   },
   {
-    "title": "杰伦 - 专注模式",
-    "author": "admin",
-    "petId": "jielun",
-    "actionType": "focus",
-    "framesCount": 4,
-    "frameDuration": 300,
-    "promptUsed": "",
-    "imageUrl": "https://fastly.jsdelivr.net/gh/ZhangYiLong416/vibepet-workshop@main/patches/jielun/focus/admin_1780795851765.webp",
-    "createdTime": "2026-06-07T01:30:51.765Z",
-    "metaPath": "patches/jielun/focus/admin_1780795851765.json"
-  },
-  {
     "title": "486 - 功德模式",
     "author": "神秘宠物训练师",
     "petId": "486",
