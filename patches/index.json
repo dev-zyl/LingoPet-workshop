@@ -1,5 +1,18 @@
 [
   {
+    "title": "昔涟 - 音乐律动",
+    "author": "LingoPet",
+    "petId": "xilian",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/xilian/music/LingoPet_1782192731943_01.webp",
+    "createdTime": "2026-06-23T05:32:11.943Z",
+    "metaPath": "patches/xilian/music/LingoPet_1782192731943_01.json"
+  },
+  {
     "title": "月薪喵 - 专注模式",
     "author": "LingoPet",
     "petId": "yuexinmiao",
