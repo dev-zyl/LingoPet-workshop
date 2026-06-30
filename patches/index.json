@@ -8,6 +8,19 @@
     "framesCount": 8,
     "frameDuration": 140,
     "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/gpt-muse/music/LingoPet_1782812681295_01.webp",
+    "createdTime": "2026-06-30T09:44:41.295Z",
+    "metaPath": "patches/gpt-muse/music/LingoPet_1782812681295_01.json"
+  },
+  {
+    "title": "GPT-muse - 音乐律动",
+    "author": "LingoPet",
+    "petId": "gpt-muse",
+    "actionType": "music",
+    "status": "published",
+    "framesCount": 8,
+    "frameDuration": 140,
+    "promptUsed": "",
     "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/gpt-muse/music/LingoPet_1782664053470_01.webp",
     "createdTime": "2026-06-28T16:27:33.470Z",
     "metaPath": "patches/gpt-muse/music/LingoPet_1782664053470_01.json"
