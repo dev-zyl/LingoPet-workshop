@@ -1,5 +1,18 @@
 [
   {
+    "title": "Mutsumi - 功德模式",
+    "author": "LingoPet",
+    "petId": "pet-mutsumi",
+    "actionType": "merit",
+    "status": "published",
+    "framesCount": 4,
+    "frameDuration": 150,
+    "promptUsed": "",
+    "imageUrl": "https://raw.githubusercontent.com/ZhangYiLong416/vibepet-workshop/main/patches/pet-mutsumi/merit/LingoPet_1782920265302_01.webp",
+    "createdTime": "2026-07-01T15:37:45.302Z",
+    "metaPath": "patches/pet-mutsumi/merit/LingoPet_1782920265302_01.json"
+  },
+  {
     "title": "GPT-muse - 音乐律动",
     "author": "LingoPet",
     "petId": "gpt-muse",
